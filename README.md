@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.196948.svg)](https://doi.org/10.5281/zenodo.196948)
+[![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
 
 # sum_label.pl written by Kate Lee in April 2016
 
