@@ -1,0 +1,4212 @@
+
+______________________________________________________________________________________________
+0 0.000023	3.795000	background 
+1 0.000023	3.795000	background 
+2 0.000023	3.795000	background 
+3 0.000023	3.795000	background 
+4 0.000023	3.795000	background 
+current category = background
+current start = 0.000023
+current end = 3.795000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 3.795000	4.665000	other_sb 
+1 3.795000	4.785000	fluttering_shearwater 
+2 3.795000	4.785000	other_sb 
+3 3.795000	4.635000	other_sb 
+4 3.795000	4.680000	other_sb 
+
+******SUM LINE: 0.000023	3.795000	background*********
+current category = fluttering_shearwater
+current start = 3.795000
+current end = 4.635000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 3.795000	4.665000	other_sb 
+1 3.795000	4.785000	fluttering_shearwater 
+2 3.795000	4.785000	other_sb 
+3 4.635000	8.880000	background 
+4 3.795000	4.680000	other_sb 
+
+******SUM LINE: 3.795000	4.635000	fluttering_shearwater*********
+current category = background
+current start = 4.635000
+current end = 4.665000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 4.665000	8.910000	background 
+1 3.795000	4.785000	fluttering_shearwater 
+2 3.795000	4.785000	other_sb 
+3 4.635000	8.880000	background 
+4 3.795000	4.680000	other_sb 
+current category = background
+current start = 4.635000
+current end = 4.680000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 4.665000	8.910000	background 
+1 3.795000	4.785000	fluttering_shearwater 
+2 3.795000	4.785000	other_sb 
+3 4.635000	8.880000	background 
+4 4.680000	8.895000	background 
+current category = background
+current start = 4.635000
+current end = 4.785000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 4.665000	8.910000	background 
+1 4.785000	8.880000	background 
+2 4.785000	8.835000	background 
+3 4.635000	8.880000	background 
+4 4.680000	8.895000	background 
+current category = background
+current start = 4.635000
+current end = 8.835000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 4.665000	8.910000	background 
+1 4.785000	8.880000	background 
+2 8.835000	14.670000	other_sb 
+3 4.635000	8.880000	background 
+4 4.680000	8.895000	background 
+current category = background
+current start = 4.635000
+current end = 8.880000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 4.665000	8.910000	background 
+1 8.880000	25.770000	fluttering_shearwater 
+2 8.835000	14.670000	other_sb 
+3 8.880000	24.960000	other_sb 
+4 4.680000	8.895000	background 
+current category = background
+current start = 4.635000
+current end = 8.895000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 4.665000	8.910000	background 
+1 8.880000	25.770000	fluttering_shearwater 
+2 8.835000	14.670000	other_sb 
+3 8.880000	24.960000	other_sb 
+4 8.985000	11.205000	other_sb 
+current category = background
+current start = 4.635000
+current end = 8.910000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 8.910000	14.670000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 8.835000	14.670000	other_sb 
+3 8.880000	24.960000	other_sb 
+4 8.985000	11.205000	other_sb 
+
+******SUM LINE: 4.635000	8.910000	background*********
+current category = fluttering_shearwater
+current start = 8.910000
+current end = 11.205000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 8.910000	14.670000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 8.835000	14.670000	other_sb 
+3 8.880000	24.960000	other_sb 
+4 11.280000	24.960000	other_sb 
+current category = fluttering_shearwater
+current start = 8.910000
+current end = 14.670000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 14.670000	14.910000	background 
+1 8.880000	25.770000	fluttering_shearwater 
+2 14.670000	14.925000	background 
+3 8.880000	24.960000	other_sb 
+4 11.280000	24.960000	other_sb 
+
+******SUM LINE: 8.910000	14.670000	fluttering_shearwater*********
+current category = background
+current start = 14.670000
+current end = 14.910000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 14.910000	25.755000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 14.670000	14.925000	background 
+3 8.880000	24.960000	other_sb 
+4 11.280000	24.960000	other_sb 
+current category = background
+current start = 14.670000
+current end = 14.925000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 14.910000	25.755000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 14.925000	20.145000	other_sb 
+3 8.880000	24.960000	other_sb 
+4 11.280000	24.960000	other_sb 
+
+******SUM LINE: 14.670000	14.925000	background*********
+current category = fluttering_shearwater
+current start = 14.925000
+current end = 20.145000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 14.910000	25.755000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 20.205000	25.755000	other_sb 
+3 8.880000	24.960000	other_sb 
+4 11.280000	24.960000	other_sb 
+current category = fluttering_shearwater
+current start = 14.925000
+current end = 24.960000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 14.910000	25.755000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 20.205000	25.755000	other_sb 
+3 24.960000	25.140000	background 
+4 24.960000	25.140000	background 
+
+******SUM LINE: 14.925000	24.960000	fluttering_shearwater*********
+current category = background
+current start = 24.960000
+current end = 25.140000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 14.910000	25.755000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 20.205000	25.755000	other_sb 
+3 25.140000	25.740000	other_sb 
+4 25.140000	25.755000	other_sb 
+
+******SUM LINE: 24.960000	25.140000	background*********
+current category = fluttering_shearwater
+current start = 25.140000
+current end = 25.740000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 14.910000	25.755000	other_sb 
+1 8.880000	25.770000	fluttering_shearwater 
+2 20.205000	25.755000	other_sb 
+3 25.740000	30.015000	background 
+4 25.140000	25.755000	other_sb 
+
+******SUM LINE: 25.140000	25.740000	fluttering_shearwater*********
+current category = background
+current start = 25.740000
+current end = 25.755000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 25.755000	30.015000	background 
+1 8.880000	25.770000	fluttering_shearwater 
+2 25.755000	30.000000	background 
+3 25.740000	30.015000	background 
+4 25.755000	30.015000	background 
+current category = background
+current start = 25.740000
+current end = 25.770000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 25.755000	30.015000	background 
+1 25.770000	30.000000	background 
+2 25.755000	30.000000	background 
+3 25.740000	30.015000	background 
+4 25.755000	30.015000	background 
+current category = background
+current start = 25.740000
+current end = 30.000000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 25.755000	30.015000	background 
+1 30.000000	32.280000	other_sb 
+2 30.000000	34.935000	other_sb 
+3 25.740000	30.015000	background 
+4 25.755000	30.015000	background 
+current category = background
+current start = 25.740000
+current end = 30.015000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 30.000000	32.280000	other_sb 
+2 30.000000	34.935000	other_sb 
+3 30.015000	34.545000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 25.740000	30.015000	background*********
+current category = little_shearwater
+current start = 30.015000
+current end = 32.280000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.280000	32.400000	fluttering_shearwater 
+2 30.000000	34.935000	other_sb 
+3 30.015000	34.545000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+current category = other_sb
+current start = 30.015000
+current end = 32.400000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 30.000000	34.935000	other_sb 
+3 30.015000	34.545000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+current category = other_sb
+current start = 30.015000
+current end = 34.545000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 30.000000	34.935000	other_sb 
+3 34.545000	34.770000	background 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 30.015000	34.545000	other_sb*********
+current category = background
+current start = 34.545000
+current end = 34.770000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 30.000000	34.935000	other_sb 
+3 34.770000	34.965000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 34.545000	34.770000	background*********
+current category = little_shearwater
+current start = 34.770000
+current end = 34.935000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 34.935000	35.745000	grey_faced_petrel 
+3 34.770000	34.965000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+current category = other_sb
+current start = 34.770000
+current end = 34.965000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 34.935000	35.745000	grey_faced_petrel 
+3 34.965000	35.520000	other_sb 
+4 30.015000	39.225000	other_sb 
+current category = other_sb
+current start = 34.770000
+current end = 35.520000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 34.935000	35.745000	grey_faced_petrel 
+3 35.520000	35.670000	background 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 34.770000	35.520000	other_sb*********
+current category = background
+current start = 35.520000
+current end = 35.670000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 34.935000	35.745000	grey_faced_petrel 
+3 35.670000	36.675000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 35.520000	35.670000	background*********
+current category = other_sb
+current start = 35.520000
+current end = 35.745000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 35.745000	39.210000	other_sb 
+3 35.670000	36.675000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+current category = other_sb
+current start = 35.520000
+current end = 36.675000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 35.745000	39.210000	other_sb 
+3 36.675000	36.990000	other_sb 
+4 30.015000	39.225000	other_sb 
+current category = other_sb
+current start = 35.520000
+current end = 36.990000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 35.745000	39.210000	other_sb 
+3 36.990000	37.275000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 35.520000	36.990000	other_sb*********
+current category = little_shearwater
+current start = 36.990000
+current end = 37.275000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 35.745000	39.210000	other_sb 
+3 37.275000	37.620000	other_sb 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 36.990000	37.275000	little_shearwater*********
+current category = other_sb
+current start = 37.275000
+current end = 37.620000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 35.745000	39.210000	other_sb 
+3 37.620000	39.225000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 37.275000	37.620000	other_sb*********
+current category = little_shearwater
+current start = 37.620000
+current end = 39.210000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 30.015000	39.225000	other_sb 
+1 32.400000	39.225000	other_sb 
+2 39.210000	39.480000	background 
+3 37.620000	39.225000	little_shearwater 
+4 30.015000	39.225000	other_sb 
+
+******SUM LINE: 37.620000	39.210000	little_shearwater*********
+current category = background
+current start = 39.210000
+current end = 39.225000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.225000	39.405000	background 
+1 39.225000	39.480000	background 
+2 39.210000	39.480000	background 
+3 39.225000	39.495000	background 
+4 39.225000	39.465000	background 
+current category = background
+current start = 39.210000
+current end = 39.405000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 39.225000	39.480000	background 
+2 39.210000	39.480000	background 
+3 39.225000	39.495000	background 
+4 39.225000	39.465000	background 
+current category = background
+current start = 39.210000
+current end = 39.465000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 39.225000	39.480000	background 
+2 39.210000	39.480000	background 
+3 39.225000	39.495000	background 
+4 39.465000	42.945000	other_sb 
+current category = background
+current start = 39.210000
+current end = 39.480000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 39.480000	39.795000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 39.225000	39.495000	background 
+4 39.465000	42.945000	other_sb 
+current category = background
+current start = 39.210000
+current end = 39.495000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 39.480000	39.795000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 39.495000	39.855000	little_shearwater 
+4 39.465000	42.945000	other_sb 
+
+******SUM LINE: 39.210000	39.495000	background*********
+current category = little_shearwater
+current start = 39.495000
+current end = 39.795000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 39.795000	40.215000	fluttering_shearwater 
+2 39.480000	42.945000	other_sb 
+3 39.495000	39.855000	little_shearwater 
+4 39.465000	42.945000	other_sb 
+current category = other_sb
+current start = 39.495000
+current end = 39.855000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 39.795000	40.215000	fluttering_shearwater 
+2 39.480000	42.945000	other_sb 
+3 39.855000	40.770000	other_sb 
+4 39.465000	42.945000	other_sb 
+current category = other_sb
+current start = 39.495000
+current end = 40.215000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 39.855000	40.770000	other_sb 
+4 39.465000	42.945000	other_sb 
+current category = other_sb
+current start = 39.495000
+current end = 40.770000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 40.770000	41.655000	little_shearwater 
+4 39.465000	42.945000	other_sb 
+
+******SUM LINE: 39.495000	40.770000	other_sb*********
+current category = little_shearwater
+current start = 40.770000
+current end = 41.655000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 41.655000	41.775000	other_sb 
+4 39.465000	42.945000	other_sb 
+
+******SUM LINE: 40.770000	41.655000	little_shearwater*********
+current category = other_sb
+current start = 41.655000
+current end = 41.775000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 41.775000	42.270000	little_shearwater 
+4 39.465000	42.945000	other_sb 
+
+******SUM LINE: 41.655000	41.775000	other_sb*********
+current category = little_shearwater
+current start = 41.775000
+current end = 42.270000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 42.270000	42.570000	other_sb 
+4 39.465000	42.945000	other_sb 
+
+******SUM LINE: 41.775000	42.270000	little_shearwater*********
+current category = other_sb
+current start = 42.270000
+current end = 42.570000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 39.480000	42.945000	other_sb 
+3 42.570000	43.590000	little_shearwater 
+4 39.465000	42.945000	other_sb 
+
+******SUM LINE: 42.270000	42.570000	other_sb*********
+current category = little_shearwater
+current start = 42.570000
+current end = 42.945000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 42.945000	43.185000	background 
+3 42.570000	43.590000	little_shearwater 
+4 42.945000	43.185000	background 
+
+******SUM LINE: 42.570000	42.945000	little_shearwater*********
+current category = background
+current start = 42.945000
+current end = 43.185000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 40.215000	43.575000	other_sb 
+2 43.185000	43.665000	other_sb 
+3 42.570000	43.590000	little_shearwater 
+4 43.185000	43.665000	other_sb 
+
+******SUM LINE: 42.945000	43.185000	background*********
+current category = little_shearwater
+current start = 43.185000
+current end = 43.575000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 43.575000	43.800000	background 
+2 43.185000	43.665000	other_sb 
+3 42.570000	43.590000	little_shearwater 
+4 43.185000	43.665000	other_sb 
+
+******SUM LINE: 43.185000	43.575000	little_shearwater*********
+current category = background
+current start = 43.575000
+current end = 43.590000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 39.405000	43.665000	other_sb 
+1 43.575000	43.800000	background 
+2 43.185000	43.665000	other_sb 
+3 43.590000	43.815000	background 
+4 43.185000	43.665000	other_sb 
+current category = background
+current start = 43.575000
+current end = 43.665000
+current manybirds = 0
+birdcount = 0
+
+0 was here
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.575000	43.800000	background 
+2 43.665000	43.800000	background 
+3 43.590000	43.815000	background 
+4 43.665000	43.800000	background 
+current category = background
+current start = 43.575000
+current end = 43.800000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.800000	45.615000	other_sb 
+2 43.800000	45.585000	other_sb 
+3 43.590000	43.815000	background 
+4 43.800000	44.310000	other_sb 
+current category = background
+current start = 43.575000
+current end = 43.815000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.800000	45.615000	other_sb 
+2 43.800000	45.585000	other_sb 
+3 43.815000	45.585000	little_shearwater 
+4 43.800000	44.310000	other_sb 
+
+******SUM LINE: 43.575000	43.815000	background*********
+current category = little_shearwater
+current start = 43.815000
+current end = 44.310000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.800000	45.615000	other_sb 
+2 43.800000	45.585000	other_sb 
+3 43.815000	45.585000	little_shearwater 
+4 44.310000	44.445000	background 
+
+******SUM LINE: 43.815000	44.310000	little_shearwater*********
+current category = background
+current start = 44.310000
+current end = 44.445000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.800000	45.615000	other_sb 
+2 43.800000	45.585000	other_sb 
+3 43.815000	45.585000	little_shearwater 
+4 44.445000	44.595000	white_faced_storm_petrel 
+
+******SUM LINE: 44.310000	44.445000	background*********
+current category = other_sb
+current start = 44.310000
+current end = 44.595000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.800000	45.615000	other_sb 
+2 43.800000	45.585000	other_sb 
+3 43.815000	45.585000	little_shearwater 
+4 44.595000	45.585000	other_sb 
+current category = other_sb
+current start = 44.310000
+current end = 45.585000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 43.770000	45.615000	other_sb 
+1 43.800000	45.615000	other_sb 
+2 45.585000	46.365000	background 
+3 45.585000	46.365000	background 
+4 45.585000	46.365000	background 
+
+******SUM LINE: 44.310000	45.585000	other_sb*********
+current category = background
+current start = 45.585000
+current end = 45.615000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 45.615000	46.365000	background 
+1 45.615000	46.380000	background 
+2 45.585000	46.365000	background 
+3 45.585000	46.365000	background 
+4 45.585000	46.365000	background 
+current category = background
+current start = 45.585000
+current end = 46.365000
+current manybirds = 0
+birdcount = 0
+
+0 was here
+______________________________________________________________________________________________
+0 46.365000	47.355000	other_sb 
+1 45.615000	46.380000	background 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 46.470000	46.905000	background 
+current category = background
+current start = 45.585000
+current end = 46.380000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 46.365000	47.355000	other_sb 
+1 46.380000	48.660000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 46.470000	46.905000	background 
+current category = background
+current start = 45.585000
+current end = 46.905000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 46.365000	47.355000	other_sb 
+1 46.380000	48.660000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 46.905000	47.355000	other_sb 
+
+******SUM LINE: 45.585000	46.905000	background*********
+current category = fluttering_shearwater
+current start = 46.905000
+current end = 47.355000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 47.355000	48.075000	background 
+1 46.380000	48.660000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 47.355000	48.585000	background 
+
+******SUM LINE: 46.905000	47.355000	fluttering_shearwater*********
+current category = background
+current start = 47.355000
+current end = 48.075000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 46.380000	48.660000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 47.355000	48.585000	background 
+current category = background
+current start = 47.355000
+current end = 48.585000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 46.380000	48.660000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 47.355000	48.585000	background*********
+current category = fluttering_shearwater
+current start = 48.585000
+current end = 48.660000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 48.660000	49.485000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 48.585000	48.660000	fluttering_shearwater*********
+current category = other_sb
+current start = 48.660000
+current end = 49.485000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.485000	49.710000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 48.660000	49.485000	other_sb*********
+current category = fluttering_shearwater
+current start = 49.485000
+current end = 49.710000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.710000	52.515000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 46.365000	49.920000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 49.485000	49.710000	fluttering_shearwater*********
+current category = other_sb
+current start = 49.710000
+current end = 49.920000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.710000	52.515000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 49.920000	50.130000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 49.710000	49.920000	other_sb*********
+current category = little_shearwater
+current start = 49.920000
+current end = 50.130000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.710000	52.515000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 50.130000	50.610000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 49.920000	50.130000	little_shearwater*********
+current category = other_sb
+current start = 50.130000
+current end = 50.610000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.710000	52.515000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 50.610000	52.260000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 50.130000	50.610000	other_sb*********
+current category = little_shearwater
+current start = 50.610000
+current end = 52.260000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.710000	52.515000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 52.260000	52.440000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 50.610000	52.260000	little_shearwater*********
+current category = other_sb
+current start = 52.260000
+current end = 52.440000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 49.710000	52.515000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 52.440000	52.665000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 52.260000	52.440000	other_sb*********
+current category = little_shearwater
+current start = 52.440000
+current end = 52.515000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.515000	52.635000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 52.440000	52.665000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+current category = other_sb
+current start = 52.440000
+current end = 52.635000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.635000	53.505000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 52.440000	52.665000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+current category = other_sb
+current start = 52.440000
+current end = 52.665000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.635000	53.505000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 52.665000	52.860000	other_sb 
+4 48.585000	54.480000	other_sb 
+current category = other_sb
+current start = 52.440000
+current end = 52.860000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.635000	53.505000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 52.860000	53.085000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 52.440000	52.860000	other_sb*********
+current category = little_shearwater
+current start = 52.860000
+current end = 53.085000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.635000	53.505000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 53.085000	53.250000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 52.860000	53.085000	little_shearwater*********
+current category = other_sb
+current start = 53.085000
+current end = 53.250000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.635000	53.505000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 53.250000	53.445000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 53.085000	53.250000	other_sb*********
+current category = little_shearwater
+current start = 53.250000
+current end = 53.445000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 52.635000	53.505000	other_sb 
+2 46.365000	54.480000	other_sb 
+3 53.445000	53.670000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 53.250000	53.445000	little_shearwater*********
+current category = other_sb
+current start = 53.445000
+current end = 53.505000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 53.505000	54.510000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 53.445000	53.670000	other_sb 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 53.445000	53.505000	other_sb*********
+current category = fluttering_shearwater
+current start = 53.505000
+current end = 53.670000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 53.505000	54.510000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 53.670000	53.970000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+current category = other_sb
+current start = 53.505000
+current end = 53.970000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 53.505000	54.510000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 53.970000	54.135000	other_sb 
+4 48.585000	54.480000	other_sb 
+current category = other_sb
+current start = 53.505000
+current end = 54.135000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 53.505000	54.510000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 54.135000	54.405000	little_shearwater 
+4 48.585000	54.480000	other_sb 
+current category = other_sb
+current start = 53.505000
+current end = 54.405000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 53.505000	54.510000	fluttering_shearwater 
+2 46.365000	54.480000	other_sb 
+3 54.405000	54.810000	background 
+4 48.585000	54.480000	other_sb 
+
+******SUM LINE: 53.505000	54.405000	other_sb*********
+current category = background
+current start = 54.405000
+current end = 54.480000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 48.075000	54.510000	other_sb 
+1 53.505000	54.510000	fluttering_shearwater 
+2 54.480000	54.810000	background 
+3 54.405000	54.810000	background 
+4 54.480000	54.795000	background 
+current category = background
+current start = 54.405000
+current end = 54.510000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 54.510000	54.795000	background 
+1 54.510000	54.765000	background 
+2 54.480000	54.810000	background 
+3 54.405000	54.810000	background 
+4 54.480000	54.795000	background 
+current category = background
+current start = 54.405000
+current end = 54.765000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 54.510000	54.795000	background 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.480000	54.810000	background 
+3 54.405000	54.810000	background 
+4 54.480000	54.795000	background 
+current category = background
+current start = 54.405000
+current end = 54.795000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 54.795000	55.845000	other_sb 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.480000	54.810000	background 
+3 54.405000	54.810000	background 
+4 54.795000	55.800000	other_sb 
+current category = background
+current start = 54.405000
+current end = 54.810000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 54.795000	55.845000	other_sb 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 54.795000	55.800000	other_sb 
+
+******SUM LINE: 54.405000	54.810000	background*********
+current category = fluttering_shearwater
+current start = 54.810000
+current end = 55.800000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 54.795000	55.845000	other_sb 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 55.800000	57.120000	background 
+
+******SUM LINE: 54.810000	55.800000	fluttering_shearwater*********
+current category = background
+current start = 55.800000
+current end = 55.845000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 55.845000	57.150000	background 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 55.800000	57.120000	background 
+current category = background
+current start = 55.800000
+current end = 57.120000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 55.845000	57.150000	background 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.120000	57.255000	other_sb 
+current category = background
+current start = 55.800000
+current end = 57.150000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 54.765000	57.195000	fluttering_shearwater 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.120000	57.255000	other_sb 
+
+******SUM LINE: 55.800000	57.150000	background*********
+current category = fluttering_shearwater
+current start = 57.150000
+current end = 57.195000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.195000	57.420000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.120000	57.255000	other_sb 
+
+******SUM LINE: 57.150000	57.195000	fluttering_shearwater*********
+current category = other_sb
+current start = 57.195000
+current end = 57.255000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.195000	57.420000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.255000	57.495000	white_faced_storm_petrel 
+
+******SUM LINE: 57.195000	57.255000	other_sb*********
+current category = white_faced_storm_petrel
+current start = 57.255000
+current end = 57.420000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.420000	57.615000	background 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.255000	57.495000	white_faced_storm_petrel 
+
+******SUM LINE: 57.255000	57.420000	white_faced_storm_petrel*********
+current category = background
+current start = 57.420000
+current end = 57.495000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.420000	57.615000	background 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.495000	57.615000	background 
+current category = background
+current start = 57.420000
+current end = 57.615000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.615000	58.140000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 54.810000	57.780000	other_sb 
+4 57.615000	57.780000	white_faced_storm_petrel 
+
+******SUM LINE: 57.420000	57.615000	background*********
+current category = white_faced_storm_petrel
+current start = 57.615000
+current end = 57.780000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.615000	58.140000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 57.780000	57.900000	background 
+4 57.780000	57.960000	background 
+
+******SUM LINE: 57.615000	57.780000	white_faced_storm_petrel*********
+current category = background
+current start = 57.780000
+current end = 57.900000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.615000	58.140000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 57.900000	58.140000	other_sb 
+4 57.780000	57.960000	background 
+current category = background
+current start = 57.780000
+current end = 57.960000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.615000	58.140000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 57.900000	58.140000	other_sb 
+4 57.960000	58.125000	white_faced_storm_petrel 
+
+******SUM LINE: 57.780000	57.960000	background*********
+current category = white_faced_storm_petrel
+current start = 57.960000
+current end = 58.125000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 57.150000	58.140000	other_sb 
+1 57.615000	58.140000	other_sb 
+2 54.810000	58.140000	other_sb 
+3 57.900000	58.140000	other_sb 
+4 58.125000	58.275000	background 
+
+******SUM LINE: 57.960000	58.125000	white_faced_storm_petrel*********
+current category = background
+current start = 58.125000
+current end = 58.140000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.140000	58.275000	background 
+1 58.140000	58.275000	background 
+2 58.140000	58.260000	background 
+3 58.140000	58.275000	background 
+4 58.125000	58.275000	background 
+current category = background
+current start = 58.125000
+current end = 58.260000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.140000	58.275000	background 
+1 58.140000	58.275000	background 
+2 58.260000	58.455000	other_sb 
+3 58.140000	58.275000	background 
+4 58.125000	58.275000	background 
+current category = background
+current start = 58.125000
+current end = 58.275000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.275000	58.455000	other_sb 
+1 58.275000	58.455000	other_sb 
+2 58.260000	58.455000	other_sb 
+3 58.275000	58.455000	other_sb 
+4 58.275000	58.440000	white_faced_storm_petrel 
+
+******SUM LINE: 58.125000	58.275000	background*********
+current category = white_faced_storm_petrel
+current start = 58.275000
+current end = 58.440000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 58.275000	58.455000	other_sb 
+1 58.275000	58.455000	other_sb 
+2 58.260000	58.455000	other_sb 
+3 58.275000	58.455000	other_sb 
+4 58.440000	58.620000	background 
+
+******SUM LINE: 58.275000	58.440000	white_faced_storm_petrel*********
+current category = background
+current start = 58.440000
+current end = 58.455000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.455000	58.620000	background 
+1 58.455000	58.620000	background 
+2 58.455000	58.620000	background 
+3 58.455000	58.620000	background 
+4 58.440000	58.620000	background 
+current category = background
+current start = 58.440000
+current end = 58.620000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.620000	58.845000	other_sb 
+1 58.620000	58.830000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 58.620000	58.845000	other_sb 
+4 58.620000	58.815000	white_faced_storm_petrel 
+
+******SUM LINE: 58.440000	58.620000	background*********
+current category = white_faced_storm_petrel
+current start = 58.620000
+current end = 58.815000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 58.620000	58.845000	other_sb 
+1 58.620000	58.830000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 58.620000	58.845000	other_sb 
+4 58.815000	59.070000	background 
+
+******SUM LINE: 58.620000	58.815000	white_faced_storm_petrel*********
+current category = background
+current start = 58.815000
+current end = 58.830000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.620000	58.845000	other_sb 
+1 58.830000	59.055000	background 
+2 58.620000	60.705000	other_sb 
+3 58.620000	58.845000	other_sb 
+4 58.815000	59.070000	background 
+current category = background
+current start = 58.815000
+current end = 58.845000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.845000	59.070000	background 
+1 58.830000	59.055000	background 
+2 58.620000	60.705000	other_sb 
+3 58.845000	59.055000	background 
+4 58.815000	59.070000	background 
+current category = background
+current start = 58.815000
+current end = 59.055000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 58.845000	59.070000	background 
+1 59.055000	59.895000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 59.055000	59.895000	other_sb 
+4 58.815000	59.070000	background 
+current category = background
+current start = 58.815000
+current end = 59.070000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 59.070000	59.235000	other_sb 
+1 59.055000	59.895000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 59.055000	59.895000	other_sb 
+4 59.070000	59.235000	white_faced_storm_petrel 
+
+******SUM LINE: 58.815000	59.070000	background*********
+current category = white_faced_storm_petrel
+current start = 59.070000
+current end = 59.235000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 59.235000	59.355000	background 
+1 59.055000	59.895000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 59.055000	59.895000	other_sb 
+4 59.340000	59.895000	white_faced_storm_petrel 
+
+******SUM LINE: 59.070000	59.235000	white_faced_storm_petrel*********
+current category = background
+current start = 59.235000
+current end = 59.355000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 59.355000	60.360000	other_sb 
+1 59.055000	59.895000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 59.055000	59.895000	other_sb 
+4 59.340000	59.895000	white_faced_storm_petrel 
+
+******SUM LINE: 59.235000	59.355000	background*********
+current category = white_faced_storm_petrel
+current start = 59.355000
+current end = 59.895000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 59.355000	60.360000	other_sb 
+1 59.895000	60.135000	background 
+2 58.620000	60.705000	other_sb 
+3 59.895000	60.150000	background 
+4 59.895000	60.150000	background 
+
+******SUM LINE: 59.355000	59.895000	white_faced_storm_petrel*********
+current category = background
+current start = 59.895000
+current end = 60.135000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 59.355000	60.360000	other_sb 
+1 60.135000	60.360000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 59.895000	60.150000	background 
+4 59.895000	60.150000	background 
+current category = background
+current start = 59.895000
+current end = 60.150000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 59.355000	60.360000	other_sb 
+1 60.135000	60.360000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 60.150000	60.360000	other_sb 
+4 60.150000	60.345000	white_faced_storm_petrel 
+
+******SUM LINE: 59.895000	60.150000	background*********
+current category = white_faced_storm_petrel
+current start = 60.150000
+current end = 60.345000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 59.355000	60.360000	other_sb 
+1 60.135000	60.360000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 60.150000	60.360000	other_sb 
+4 60.345000	60.540000	background 
+
+******SUM LINE: 60.150000	60.345000	white_faced_storm_petrel*********
+current category = background
+current start = 60.345000
+current end = 60.360000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 60.360000	60.495000	background 
+1 60.360000	60.525000	background 
+2 58.620000	60.705000	other_sb 
+3 60.360000	60.525000	background 
+4 60.345000	60.540000	background 
+current category = background
+current start = 60.345000
+current end = 60.495000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 60.495000	60.705000	other_sb 
+1 60.360000	60.525000	background 
+2 58.620000	60.705000	other_sb 
+3 60.360000	60.525000	background 
+4 60.345000	60.540000	background 
+current category = background
+current start = 60.345000
+current end = 60.525000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 60.495000	60.705000	other_sb 
+1 60.525000	60.705000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 60.525000	60.705000	other_sb 
+4 60.345000	60.540000	background 
+current category = background
+current start = 60.345000
+current end = 60.540000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 60.495000	60.705000	other_sb 
+1 60.525000	60.705000	other_sb 
+2 58.620000	60.705000	other_sb 
+3 60.525000	60.705000	other_sb 
+4 60.540000	60.705000	white_faced_storm_petrel 
+
+******SUM LINE: 60.345000	60.540000	background*********
+current category = white_faced_storm_petrel
+current start = 60.540000
+current end = 60.705000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 60.705000	60.885000	background 
+1 60.705000	60.885000	background 
+2 60.705000	60.900000	background 
+3 60.705000	60.885000	background 
+4 60.705000	60.900000	background 
+
+******SUM LINE: 60.540000	60.705000	white_faced_storm_petrel*********
+current category = background
+current start = 60.705000
+current end = 60.885000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 60.885000	61.110000	other_sb 
+1 60.885000	61.110000	other_sb 
+2 60.705000	60.900000	background 
+3 60.885000	61.110000	other_sb 
+4 60.705000	60.900000	background 
+current category = background
+current start = 60.705000
+current end = 60.900000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 60.885000	61.110000	other_sb 
+1 60.885000	61.110000	other_sb 
+2 60.900000	61.110000	other_sb 
+3 60.885000	61.110000	other_sb 
+4 60.900000	61.095000	white_faced_storm_petrel 
+
+******SUM LINE: 60.705000	60.900000	background*********
+current category = white_faced_storm_petrel
+current start = 60.900000
+current end = 61.095000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 60.885000	61.110000	other_sb 
+1 60.885000	61.110000	other_sb 
+2 60.900000	61.110000	other_sb 
+3 60.885000	61.110000	other_sb 
+4 61.095000	61.380000	background 
+
+******SUM LINE: 60.900000	61.095000	white_faced_storm_petrel*********
+current category = background
+current start = 61.095000
+current end = 61.110000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 61.110000	61.380000	background 
+1 61.110000	61.380000	background 
+2 61.110000	61.380000	background 
+3 61.110000	61.380000	background 
+4 61.095000	61.380000	background 
+current category = background
+current start = 61.095000
+current end = 61.380000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 61.380000	63.705000	other_sb 
+1 61.380000	63.705000	other_sb 
+2 61.380000	63.840000	other_sb 
+3 61.380000	63.720000	other_sb 
+4 61.380000	63.870000	white_faced_storm_petrel 
+
+******SUM LINE: 61.095000	61.380000	background*********
+current category = white_faced_storm_petrel
+current start = 61.380000
+current end = 63.705000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 63.705000	64.455000	background 
+1 63.705000	64.455000	background 
+2 61.380000	63.840000	other_sb 
+3 61.380000	63.720000	other_sb 
+4 61.380000	63.870000	white_faced_storm_petrel 
+
+******SUM LINE: 61.380000	63.705000	white_faced_storm_petrel*********
+current category = background
+current start = 63.705000
+current end = 63.720000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 63.705000	64.455000	background 
+1 63.705000	64.455000	background 
+2 61.380000	63.840000	other_sb 
+3 63.720000	64.455000	background 
+4 61.380000	63.870000	white_faced_storm_petrel 
+current category = background
+current start = 63.705000
+current end = 63.840000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 63.705000	64.455000	background 
+1 63.705000	64.455000	background 
+2 63.840000	64.455000	background 
+3 63.720000	64.455000	background 
+4 61.380000	63.870000	white_faced_storm_petrel 
+current category = background
+current start = 63.705000
+current end = 63.870000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 63.705000	64.455000	background 
+1 63.705000	64.455000	background 
+2 63.840000	64.455000	background 
+3 63.720000	64.455000	background 
+4 63.870000	64.455000	background 
+current category = background
+current start = 63.705000
+current end = 64.455000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 64.455000	65.010000	other_sb 
+1 64.455000	64.635000	other_sb 
+2 64.455000	64.995000	other_sb 
+3 64.455000	64.635000	other_sb 
+4 64.455000	64.620000	white_faced_storm_petrel 
+
+******SUM LINE: 63.705000	64.455000	background*********
+current category = white_faced_storm_petrel
+current start = 64.455000
+current end = 64.620000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 64.455000	65.010000	other_sb 
+1 64.455000	64.635000	other_sb 
+2 64.455000	64.995000	other_sb 
+3 64.455000	64.635000	other_sb 
+4 64.620000	64.785000	background 
+
+******SUM LINE: 64.455000	64.620000	white_faced_storm_petrel*********
+current category = background
+current start = 64.620000
+current end = 64.635000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 64.455000	65.010000	other_sb 
+1 64.635000	64.755000	background 
+2 64.455000	64.995000	other_sb 
+3 64.635000	64.785000	background 
+4 64.620000	64.785000	background 
+current category = background
+current start = 64.620000
+current end = 64.755000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 64.455000	65.010000	other_sb 
+1 64.755000	65.010000	fluttering_shearwater 
+2 64.455000	64.995000	other_sb 
+3 64.635000	64.785000	background 
+4 64.620000	64.785000	background 
+current category = background
+current start = 64.620000
+current end = 64.785000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 64.455000	65.010000	other_sb 
+1 64.755000	65.010000	fluttering_shearwater 
+2 64.455000	64.995000	other_sb 
+3 64.785000	65.025000	other_sb 
+4 64.785000	64.995000	white_faced_storm_petrel 
+
+******SUM LINE: 64.620000	64.785000	background*********
+current category = other_sb
+current start = 64.620000
+current end = 64.995000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 64.455000	65.010000	other_sb 
+1 64.755000	65.010000	fluttering_shearwater 
+2 64.995000	65.265000	background 
+3 64.785000	65.025000	other_sb 
+4 64.995000	65.265000	background 
+
+******SUM LINE: 64.620000	64.995000	other_sb*********
+current category = background
+current start = 64.995000
+current end = 65.010000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 65.010000	65.250000	background 
+1 65.010000	65.265000	background 
+2 64.995000	65.265000	background 
+3 64.785000	65.025000	other_sb 
+4 64.995000	65.265000	background 
+current category = background
+current start = 64.995000
+current end = 65.025000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 65.010000	65.250000	background 
+1 65.010000	65.265000	background 
+2 64.995000	65.265000	background 
+3 65.025000	65.250000	background 
+4 64.995000	65.265000	background 
+current category = background
+current start = 64.995000
+current end = 65.250000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 65.250000	66.135000	other_sb 
+1 65.010000	65.265000	background 
+2 64.995000	65.265000	background 
+3 65.250000	65.775000	other_sb 
+4 64.995000	65.265000	background 
+current category = background
+current start = 64.995000
+current end = 65.265000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 65.250000	66.135000	other_sb 
+1 65.265000	65.715000	other_sb 
+2 65.265000	66.135000	other_sb 
+3 65.250000	65.775000	other_sb 
+4 65.265000	65.790000	white_faced_storm_petrel 
+
+******SUM LINE: 64.995000	65.265000	background*********
+current category = white_faced_storm_petrel
+current start = 65.265000
+current end = 65.715000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 65.250000	66.135000	other_sb 
+1 65.715000	65.880000	background 
+2 65.265000	66.135000	other_sb 
+3 65.250000	65.775000	other_sb 
+4 65.265000	65.790000	white_faced_storm_petrel 
+
+******SUM LINE: 65.265000	65.715000	white_faced_storm_petrel*********
+current category = background
+current start = 65.715000
+current end = 65.775000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 65.250000	66.135000	other_sb 
+1 65.715000	65.880000	background 
+2 65.265000	66.135000	other_sb 
+3 65.880000	66.135000	other_sb 
+4 65.265000	65.790000	white_faced_storm_petrel 
+current category = background
+current start = 65.715000
+current end = 65.790000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 65.250000	66.135000	other_sb 
+1 65.715000	65.880000	background 
+2 65.265000	66.135000	other_sb 
+3 65.880000	66.135000	other_sb 
+4 65.895000	66.135000	white_faced_storm_petrel 
+current category = background
+current start = 65.715000
+current end = 65.880000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 65.250000	66.135000	other_sb 
+1 65.880000	66.135000	other_sb 
+2 65.265000	66.135000	other_sb 
+3 65.880000	66.135000	other_sb 
+4 65.895000	66.135000	white_faced_storm_petrel 
+
+******SUM LINE: 65.715000	65.880000	background*********
+current category = white_faced_storm_petrel
+current start = 65.880000
+current end = 66.135000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.135000	66.825000	background 
+1 66.135000	66.825000	background 
+2 66.135000	66.825000	background 
+3 66.135000	66.825000	background 
+4 66.135000	66.825000	background 
+
+******SUM LINE: 65.880000	66.135000	white_faced_storm_petrel*********
+current category = background
+current start = 66.135000
+current end = 66.825000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 66.825000	67.110000	other_sb 
+2 66.825000	67.605000	other_sb 
+3 66.825000	67.125000	other_sb 
+4 66.825000	67.605000	white_faced_storm_petrel 
+
+******SUM LINE: 66.135000	66.825000	background*********
+current category = white_faced_storm_petrel
+current start = 66.825000
+current end = 67.110000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.110000	67.275000	background 
+2 66.825000	67.605000	other_sb 
+3 66.825000	67.125000	other_sb 
+4 66.825000	67.605000	white_faced_storm_petrel 
+
+******SUM LINE: 66.825000	67.110000	white_faced_storm_petrel*********
+current category = background
+current start = 67.110000
+current end = 67.125000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.110000	67.275000	background 
+2 66.825000	67.605000	other_sb 
+3 67.125000	67.290000	background 
+4 66.825000	67.605000	white_faced_storm_petrel 
+current category = background
+current start = 67.110000
+current end = 67.275000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.275000	67.575000	other_sb 
+2 66.825000	67.605000	other_sb 
+3 67.125000	67.290000	background 
+4 66.825000	67.605000	white_faced_storm_petrel 
+current category = background
+current start = 67.110000
+current end = 67.290000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.275000	67.575000	other_sb 
+2 66.825000	67.605000	other_sb 
+3 67.290000	67.590000	other_sb 
+4 66.825000	67.605000	white_faced_storm_petrel 
+
+******SUM LINE: 67.110000	67.290000	background*********
+current category = white_faced_storm_petrel
+current start = 67.290000
+current end = 67.575000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.575000	67.785000	background 
+2 66.825000	67.605000	other_sb 
+3 67.290000	67.590000	other_sb 
+4 66.825000	67.605000	white_faced_storm_petrel 
+
+******SUM LINE: 67.290000	67.575000	white_faced_storm_petrel*********
+current category = background
+current start = 67.575000
+current end = 67.590000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.575000	67.785000	background 
+2 66.825000	67.605000	other_sb 
+3 67.590000	67.785000	background 
+4 66.825000	67.605000	white_faced_storm_petrel 
+current category = background
+current start = 67.575000
+current end = 67.605000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 66.825000	67.620000	other_sb 
+1 67.575000	67.785000	background 
+2 67.605000	67.785000	background 
+3 67.590000	67.785000	background 
+4 67.605000	67.785000	background 
+current category = background
+current start = 67.575000
+current end = 67.620000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 67.620000	67.785000	background 
+1 67.575000	67.785000	background 
+2 67.605000	67.785000	background 
+3 67.590000	67.785000	background 
+4 67.605000	67.785000	background 
+current category = background
+current start = 67.575000
+current end = 67.785000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 67.785000	67.965000	other_sb 
+1 67.785000	67.965000	other_sb 
+2 67.785000	67.980000	other_sb 
+3 67.785000	67.965000	other_sb 
+4 67.785000	67.965000	white_faced_storm_petrel 
+
+******SUM LINE: 67.575000	67.785000	background*********
+current category = white_faced_storm_petrel
+current start = 67.785000
+current end = 67.965000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 67.965000	68.100000	background 
+1 67.965000	68.100000	background 
+2 67.785000	67.980000	other_sb 
+3 67.965000	68.100000	background 
+4 67.965000	68.100000	background 
+
+******SUM LINE: 67.785000	67.965000	white_faced_storm_petrel*********
+current category = background
+current start = 67.965000
+current end = 67.980000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 67.965000	68.100000	background 
+1 67.965000	68.100000	background 
+2 67.980000	68.100000	background 
+3 67.965000	68.100000	background 
+4 67.965000	68.100000	background 
+current category = background
+current start = 67.965000
+current end = 68.100000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 68.100000	68.940000	other_sb 
+1 68.100000	68.970000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 68.100000	68.940000	other_sb 
+4 68.100000	68.295000	white_faced_storm_petrel 
+
+******SUM LINE: 67.965000	68.100000	background*********
+current category = white_faced_storm_petrel
+current start = 68.100000
+current end = 68.295000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 68.100000	68.940000	other_sb 
+1 68.100000	68.970000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 68.100000	68.940000	other_sb 
+4 68.400000	68.925000	white_faced_storm_petrel 
+current category = white_faced_storm_petrel
+current start = 68.100000
+current end = 68.925000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 68.100000	68.940000	other_sb 
+1 68.100000	68.970000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 68.100000	68.940000	other_sb 
+4 68.925000	69.090000	background 
+
+******SUM LINE: 68.100000	68.925000	white_faced_storm_petrel*********
+current category = background
+current start = 68.925000
+current end = 68.940000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 68.940000	69.105000	background 
+1 68.100000	68.970000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 68.940000	69.105000	background 
+4 68.925000	69.090000	background 
+current category = background
+current start = 68.925000
+current end = 68.970000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 68.940000	69.105000	background 
+1 68.970000	69.105000	background 
+2 68.100000	70.170000	other_sb 
+3 68.940000	69.105000	background 
+4 68.925000	69.090000	background 
+current category = background
+current start = 68.925000
+current end = 69.090000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 68.940000	69.105000	background 
+1 68.970000	69.105000	background 
+2 68.100000	70.170000	other_sb 
+3 68.940000	69.105000	background 
+4 69.090000	69.225000	white_faced_storm_petrel 
+current category = background
+current start = 68.925000
+current end = 69.105000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 69.105000	69.255000	other_sb 
+1 69.105000	69.225000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 69.105000	69.255000	other_sb 
+4 69.090000	69.225000	white_faced_storm_petrel 
+
+******SUM LINE: 68.925000	69.105000	background*********
+current category = white_faced_storm_petrel
+current start = 69.105000
+current end = 69.225000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 69.105000	69.255000	other_sb 
+1 69.225000	69.465000	background 
+2 68.100000	70.170000	other_sb 
+3 69.105000	69.255000	other_sb 
+4 69.225000	69.465000	background 
+
+******SUM LINE: 69.105000	69.225000	white_faced_storm_petrel*********
+current category = background
+current start = 69.225000
+current end = 69.255000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 69.255000	69.465000	background 
+1 69.225000	69.465000	background 
+2 68.100000	70.170000	other_sb 
+3 69.255000	69.465000	background 
+4 69.225000	69.465000	background 
+current category = background
+current start = 69.225000
+current end = 69.465000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 69.465000	70.170000	other_sb 
+1 69.465000	70.170000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 69.465000	69.750000	other_sb 
+4 69.465000	69.750000	white_faced_storm_petrel 
+
+******SUM LINE: 69.225000	69.465000	background*********
+current category = white_faced_storm_petrel
+current start = 69.465000
+current end = 69.750000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 69.465000	70.170000	other_sb 
+1 69.465000	70.170000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 69.750000	69.885000	background 
+4 69.750000	69.915000	background 
+
+******SUM LINE: 69.465000	69.750000	white_faced_storm_petrel*********
+current category = background
+current start = 69.750000
+current end = 69.885000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 69.465000	70.170000	other_sb 
+1 69.465000	70.170000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 69.885000	70.170000	other_sb 
+4 69.750000	69.915000	background 
+current category = background
+current start = 69.750000
+current end = 69.915000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 69.465000	70.170000	other_sb 
+1 69.465000	70.170000	other_sb 
+2 68.100000	70.170000	other_sb 
+3 69.885000	70.170000	other_sb 
+4 69.915000	70.170000	white_faced_storm_petrel 
+
+******SUM LINE: 69.750000	69.915000	background*********
+current category = white_faced_storm_petrel
+current start = 69.915000
+current end = 70.170000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 70.170000	70.425000	background 
+1 70.170000	70.425000	background 
+2 70.170000	70.425000	background 
+3 70.170000	70.425000	background 
+4 70.170000	70.425000	background 
+
+******SUM LINE: 69.915000	70.170000	white_faced_storm_petrel*********
+current category = background
+current start = 70.170000
+current end = 70.425000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 70.425000	70.635000	other_sb 
+1 70.425000	70.635000	other_sb 
+2 70.425000	70.635000	other_sb 
+3 70.425000	70.635000	other_sb 
+4 70.425000	70.635000	white_faced_storm_petrel 
+
+******SUM LINE: 70.170000	70.425000	background*********
+current category = white_faced_storm_petrel
+current start = 70.425000
+current end = 70.635000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 70.635000	70.755000	background 
+1 70.635000	70.755000	background 
+2 70.635000	70.755000	background 
+3 70.635000	70.770000	background 
+4 70.635000	70.755000	background 
+
+******SUM LINE: 70.425000	70.635000	white_faced_storm_petrel*********
+current category = background
+current start = 70.635000
+current end = 70.755000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 70.755000	70.965000	other_sb 
+1 70.755000	70.965000	other_sb 
+2 70.755000	70.965000	other_sb 
+3 70.635000	70.770000	background 
+4 70.755000	70.965000	white_faced_storm_petrel 
+current category = background
+current start = 70.635000
+current end = 70.770000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 70.755000	70.965000	other_sb 
+1 70.755000	70.965000	other_sb 
+2 70.755000	70.965000	other_sb 
+3 70.770000	70.965000	other_sb 
+4 70.755000	70.965000	white_faced_storm_petrel 
+
+******SUM LINE: 70.635000	70.770000	background*********
+current category = white_faced_storm_petrel
+current start = 70.770000
+current end = 70.965000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 70.965000	71.130000	background 
+1 70.965000	71.130000	background 
+2 70.965000	71.130000	background 
+3 70.965000	71.130000	background 
+4 70.965000	71.130000	background 
+
+******SUM LINE: 70.770000	70.965000	white_faced_storm_petrel*********
+current category = background
+current start = 70.965000
+current end = 71.130000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 71.130000	71.685000	other_sb 
+1 71.130000	71.400000	other_sb 
+2 71.130000	71.730000	other_sb 
+3 71.130000	71.400000	other_sb 
+4 71.130000	71.700000	white_faced_storm_petrel 
+
+******SUM LINE: 70.965000	71.130000	background*********
+current category = white_faced_storm_petrel
+current start = 71.130000
+current end = 71.400000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+0 was here
+______________________________________________________________________________________________
+0 71.130000	71.685000	other_sb 
+1 71.505000	71.685000	other_sb 
+2 71.130000	71.730000	other_sb 
+3 71.505000	71.685000	other_sb 
+4 71.130000	71.700000	white_faced_storm_petrel 
+current category = white_faced_storm_petrel
+current start = 71.130000
+current end = 71.685000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 71.685000	72.270000	background 
+1 71.685000	72.285000	background 
+2 71.130000	71.730000	other_sb 
+3 71.685000	72.270000	background 
+4 71.130000	71.700000	white_faced_storm_petrel 
+
+******SUM LINE: 71.130000	71.685000	white_faced_storm_petrel*********
+current category = background
+current start = 71.685000
+current end = 71.700000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 71.685000	72.270000	background 
+1 71.685000	72.285000	background 
+2 71.130000	71.730000	other_sb 
+3 71.685000	72.270000	background 
+4 71.700000	72.285000	background 
+current category = background
+current start = 71.685000
+current end = 71.730000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 71.685000	72.270000	background 
+1 71.685000	72.285000	background 
+2 71.730000	72.270000	background 
+3 71.685000	72.270000	background 
+4 71.700000	72.285000	background 
+current category = background
+current start = 71.685000
+current end = 72.270000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 72.270000	72.915000	other_sb 
+1 71.685000	72.285000	background 
+2 72.270000	72.915000	other_sb 
+3 72.270000	72.915000	other_sb 
+4 71.700000	72.285000	background 
+current category = background
+current start = 71.685000
+current end = 72.285000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 72.270000	72.915000	other_sb 
+1 72.285000	72.915000	other_sb 
+2 72.270000	72.915000	other_sb 
+3 72.270000	72.915000	other_sb 
+4 72.285000	72.915000	white_faced_storm_petrel 
+
+******SUM LINE: 71.685000	72.285000	background*********
+current category = white_faced_storm_petrel
+current start = 72.285000
+current end = 72.915000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 72.915000	73.140000	background 
+1 72.915000	73.110000	background 
+2 72.915000	73.110000	background 
+3 72.915000	73.110000	background 
+4 72.915000	73.110000	background 
+
+******SUM LINE: 72.285000	72.915000	white_faced_storm_petrel*********
+current category = background
+current start = 72.915000
+current end = 73.110000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 72.915000	73.140000	background 
+1 73.110000	74.370000	other_sb 
+2 73.110000	75.180000	other_sb 
+3 73.110000	75.180000	other_sb 
+4 73.110000	75.180000	white_faced_storm_petrel 
+current category = background
+current start = 72.915000
+current end = 73.140000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 73.140000	75.195000	other_sb 
+1 73.110000	74.370000	other_sb 
+2 73.110000	75.180000	other_sb 
+3 73.110000	75.180000	other_sb 
+4 73.110000	75.180000	white_faced_storm_petrel 
+
+******SUM LINE: 72.915000	73.140000	background*********
+current category = white_faced_storm_petrel
+current start = 73.140000
+current end = 74.370000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 73.140000	75.195000	other_sb 
+1 74.460000	75.180000	other_sb 
+2 73.110000	75.180000	other_sb 
+3 73.110000	75.180000	other_sb 
+4 73.110000	75.180000	white_faced_storm_petrel 
+current category = white_faced_storm_petrel
+current start = 73.140000
+current end = 75.180000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 73.140000	75.195000	other_sb 
+1 75.180000	75.405000	background 
+2 75.180000	75.405000	background 
+3 75.180000	75.405000	background 
+4 75.180000	75.405000	background 
+
+******SUM LINE: 73.140000	75.180000	white_faced_storm_petrel*********
+current category = background
+current start = 75.180000
+current end = 75.195000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 75.195000	75.405000	background 
+1 75.180000	75.405000	background 
+2 75.180000	75.405000	background 
+3 75.180000	75.405000	background 
+4 75.180000	75.405000	background 
+current category = background
+current start = 75.180000
+current end = 75.405000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 75.405000	76.755000	other_sb 
+1 75.405000	76.185000	other_sb 
+2 75.405000	76.755000	other_sb 
+3 75.405000	76.740000	other_sb 
+4 75.405000	76.755000	white_faced_storm_petrel 
+
+******SUM LINE: 75.180000	75.405000	background*********
+current category = white_faced_storm_petrel
+current start = 75.405000
+current end = 76.185000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 75.405000	76.755000	other_sb 
+1 76.185000	76.335000	background 
+2 75.405000	76.755000	other_sb 
+3 75.405000	76.740000	other_sb 
+4 75.405000	76.755000	white_faced_storm_petrel 
+
+******SUM LINE: 75.405000	76.185000	white_faced_storm_petrel*********
+current category = background
+current start = 76.185000
+current end = 76.335000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 75.405000	76.755000	other_sb 
+1 76.335000	76.755000	other_sb 
+2 75.405000	76.755000	other_sb 
+3 75.405000	76.740000	other_sb 
+4 75.405000	76.755000	white_faced_storm_petrel 
+
+******SUM LINE: 76.185000	76.335000	background*********
+current category = white_faced_storm_petrel
+current start = 76.335000
+current end = 76.740000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 75.405000	76.755000	other_sb 
+1 76.335000	76.755000	other_sb 
+2 75.405000	76.755000	other_sb 
+3 76.740000	76.860000	background 
+4 75.405000	76.755000	white_faced_storm_petrel 
+
+******SUM LINE: 76.335000	76.740000	white_faced_storm_petrel*********
+current category = background
+current start = 76.740000
+current end = 76.755000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+0 was here
+0 was here
+0 was here
+______________________________________________________________________________________________
+0 76.845000	81.180000	other_sb 
+1 76.845000	81.180000	other_sb 
+2 76.845000	81.180000	other_sb 
+3 76.740000	76.860000	background 
+4 76.845000	81.015000	white_faced_storm_petrel 
+current category = background
+current start = 76.740000
+current end = 76.860000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 76.845000	81.180000	other_sb 
+1 76.845000	81.180000	other_sb 
+2 76.845000	81.180000	other_sb 
+3 76.860000	81.180000	other_sb 
+4 76.845000	81.015000	white_faced_storm_petrel 
+
+******SUM LINE: 76.740000	76.860000	background*********
+current category = white_faced_storm_petrel
+current start = 76.860000
+current end = 81.015000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 76.845000	81.180000	other_sb 
+1 76.845000	81.180000	other_sb 
+2 76.845000	81.180000	other_sb 
+3 76.860000	81.180000	other_sb 
+4 81.015000	81.180000	other_sb 
+
+******SUM LINE: 76.860000	81.015000	white_faced_storm_petrel*********
+current category = other_sb
+current start = 81.015000
+current end = 81.180000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 81.180000	81.480000	background 
+1 81.180000	81.480000	background 
+2 81.180000	81.465000	background 
+3 81.180000	81.480000	background 
+4 81.180000	81.465000	background 
+
+******SUM LINE: 81.015000	81.180000	other_sb*********
+current category = background
+current start = 81.180000
+current end = 81.465000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 81.180000	81.480000	background 
+1 81.180000	81.480000	background 
+2 81.465000	82.215000	other_sb 
+3 81.180000	81.480000	background 
+4 81.465000	81.600000	white_faced_storm_petrel 
+current category = background
+current start = 81.180000
+current end = 81.480000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 81.480000	81.600000	other_sb 
+1 81.480000	81.615000	other_sb 
+2 81.465000	82.215000	other_sb 
+3 81.480000	81.600000	other_sb 
+4 81.465000	81.600000	white_faced_storm_petrel 
+
+******SUM LINE: 81.180000	81.480000	background*********
+current category = white_faced_storm_petrel
+current start = 81.480000
+current end = 81.600000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 81.600000	81.735000	background 
+1 81.480000	81.615000	other_sb 
+2 81.465000	82.215000	other_sb 
+3 81.600000	81.750000	background 
+4 81.600000	81.735000	background 
+
+******SUM LINE: 81.480000	81.600000	white_faced_storm_petrel*********
+current category = background
+current start = 81.600000
+current end = 81.615000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 81.600000	81.735000	background 
+1 81.615000	81.735000	background 
+2 81.465000	82.215000	other_sb 
+3 81.600000	81.750000	background 
+4 81.600000	81.735000	background 
+current category = background
+current start = 81.600000
+current end = 81.735000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 81.735000	82.245000	other_sb 
+1 81.735000	82.005000	other_sb 
+2 81.465000	82.215000	other_sb 
+3 81.600000	81.750000	background 
+4 81.735000	81.990000	white_faced_storm_petrel 
+current category = background
+current start = 81.600000
+current end = 81.750000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 81.735000	82.245000	other_sb 
+1 81.735000	82.005000	other_sb 
+2 81.465000	82.215000	other_sb 
+3 81.750000	81.990000	other_sb 
+4 81.735000	81.990000	white_faced_storm_petrel 
+
+******SUM LINE: 81.600000	81.750000	background*********
+current category = white_faced_storm_petrel
+current start = 81.750000
+current end = 81.990000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+0 was here
+______________________________________________________________________________________________
+0 81.735000	82.245000	other_sb 
+1 81.735000	82.005000	other_sb 
+2 81.465000	82.215000	other_sb 
+3 82.095000	82.245000	other_sb 
+4 82.095000	82.245000	white_faced_storm_petrel 
+current category = white_faced_storm_petrel
+current start = 81.750000
+current end = 82.005000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 81.735000	82.245000	other_sb 
+1 82.095000	82.215000	other_sb 
+2 81.465000	82.215000	other_sb 
+3 82.095000	82.245000	other_sb 
+4 82.095000	82.245000	white_faced_storm_petrel 
+current category = white_faced_storm_petrel
+current start = 81.750000
+current end = 82.215000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 81.735000	82.245000	other_sb 
+1 82.215000	82.590000	background 
+2 82.215000	82.590000	background 
+3 82.095000	82.245000	other_sb 
+4 82.095000	82.245000	white_faced_storm_petrel 
+
+******SUM LINE: 81.750000	82.215000	white_faced_storm_petrel*********
+current category = background
+current start = 82.215000
+current end = 82.245000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 82.245000	82.590000	background 
+1 82.215000	82.590000	background 
+2 82.215000	82.590000	background 
+3 82.245000	82.590000	background 
+4 82.245000	82.590000	background 
+current category = background
+current start = 82.215000
+current end = 82.590000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 82.590000	83.715000	other_sb 
+1 82.590000	82.965000	other_sb 
+2 82.590000	83.700000	other_sb 
+3 82.590000	83.700000	other_sb 
+4 82.590000	83.190000	white_faced_storm_petrel 
+
+******SUM LINE: 82.215000	82.590000	background*********
+current category = white_faced_storm_petrel
+current start = 82.590000
+current end = 82.965000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 82.590000	83.715000	other_sb 
+1 82.965000	83.085000	background 
+2 82.590000	83.700000	other_sb 
+3 82.590000	83.700000	other_sb 
+4 82.590000	83.190000	white_faced_storm_petrel 
+
+******SUM LINE: 82.590000	82.965000	white_faced_storm_petrel*********
+current category = background
+current start = 82.965000
+current end = 83.085000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 82.590000	83.715000	other_sb 
+1 83.085000	83.700000	other_sb 
+2 82.590000	83.700000	other_sb 
+3 82.590000	83.700000	other_sb 
+4 82.590000	83.190000	white_faced_storm_petrel 
+
+******SUM LINE: 82.965000	83.085000	background*********
+current category = white_faced_storm_petrel
+current start = 83.085000
+current end = 83.190000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 82.590000	83.715000	other_sb 
+1 83.085000	83.700000	other_sb 
+2 82.590000	83.700000	other_sb 
+3 82.590000	83.700000	other_sb 
+4 83.190000	83.400000	other_sb 
+
+******SUM LINE: 83.085000	83.190000	white_faced_storm_petrel*********
+current category = other_sb
+current start = 83.190000
+current end = 83.400000
+current manybirds = 0
+birdcount = 0
+
+0 was here
+______________________________________________________________________________________________
+0 82.590000	83.715000	other_sb 
+1 83.085000	83.700000	other_sb 
+2 82.590000	83.700000	other_sb 
+3 82.590000	83.700000	other_sb 
+4 83.475000	83.715000	white_faced_storm_petrel 
+
+******SUM LINE: 83.190000	83.400000	other_sb*********
+current category = white_faced_storm_petrel
+current start = 83.400000
+current end = 83.700000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 82.590000	83.715000	other_sb 
+1 83.700000	83.955000	background 
+2 83.700000	83.955000	background 
+3 83.700000	83.880000	background 
+4 83.475000	83.715000	white_faced_storm_petrel 
+
+******SUM LINE: 83.400000	83.700000	white_faced_storm_petrel*********
+current category = background
+current start = 83.700000
+current end = 83.715000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 83.715000	83.880000	background 
+1 83.700000	83.955000	background 
+2 83.700000	83.955000	background 
+3 83.700000	83.880000	background 
+4 83.715000	83.955000	background 
+current category = background
+current start = 83.700000
+current end = 83.880000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 83.880000	84.375000	other_sb 
+1 83.700000	83.955000	background 
+2 83.700000	83.955000	background 
+3 83.880000	84.375000	other_sb 
+4 83.715000	83.955000	background 
+current category = background
+current start = 83.700000
+current end = 83.955000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 83.880000	84.375000	other_sb 
+1 83.955000	84.390000	other_sb 
+2 83.955000	84.390000	other_sb 
+3 83.880000	84.375000	other_sb 
+4 83.955000	84.390000	white_faced_storm_petrel 
+
+******SUM LINE: 83.700000	83.955000	background*********
+current category = white_faced_storm_petrel
+current start = 83.955000
+current end = 84.375000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 84.375000	84.780000	background 
+1 83.955000	84.390000	other_sb 
+2 83.955000	84.390000	other_sb 
+3 84.375000	84.780000	background 
+4 83.955000	84.390000	white_faced_storm_petrel 
+
+******SUM LINE: 83.955000	84.375000	white_faced_storm_petrel*********
+current category = background
+current start = 84.375000
+current end = 84.390000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 84.375000	84.780000	background 
+1 84.390000	84.795000	background 
+2 84.390000	84.780000	background 
+3 84.375000	84.780000	background 
+4 84.390000	84.810000	background 
+current category = background
+current start = 84.375000
+current end = 84.780000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 84.780000	85.560000	other_sb 
+1 84.390000	84.795000	background 
+2 84.780000	85.560000	other_sb 
+3 84.780000	85.560000	other_sb 
+4 84.390000	84.810000	background 
+current category = background
+current start = 84.375000
+current end = 84.795000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 84.780000	85.560000	other_sb 
+1 84.795000	85.560000	other_sb 
+2 84.780000	85.560000	other_sb 
+3 84.780000	85.560000	other_sb 
+4 84.390000	84.810000	background 
+current category = background
+current start = 84.375000
+current end = 84.810000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 84.780000	85.560000	other_sb 
+1 84.795000	85.560000	other_sb 
+2 84.780000	85.560000	other_sb 
+3 84.780000	85.560000	other_sb 
+4 84.810000	85.560000	white_faced_storm_petrel 
+
+******SUM LINE: 84.375000	84.810000	background*********
+current category = white_faced_storm_petrel
+current start = 84.810000
+current end = 85.560000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 85.560000	85.710000	background 
+1 85.560000	85.710000	background 
+2 85.560000	85.710000	background 
+3 85.560000	85.725000	background 
+4 85.560000	85.710000	background 
+
+******SUM LINE: 84.810000	85.560000	white_faced_storm_petrel*********
+current category = background
+current start = 85.560000
+current end = 85.710000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 85.710000	86.415000	other_sb 
+1 85.710000	86.100000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 85.560000	85.725000	background 
+4 85.710000	86.100000	white_faced_storm_petrel 
+current category = background
+current start = 85.560000
+current end = 85.725000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 85.710000	86.415000	other_sb 
+1 85.710000	86.100000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 85.725000	86.100000	other_sb 
+4 85.710000	86.100000	white_faced_storm_petrel 
+
+******SUM LINE: 85.560000	85.725000	background*********
+current category = white_faced_storm_petrel
+current start = 85.725000
+current end = 86.100000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 85.710000	86.415000	other_sb 
+1 86.100000	86.220000	background 
+2 85.710000	87.570000	other_sb 
+3 86.100000	86.220000	background 
+4 86.100000	86.220000	background 
+
+******SUM LINE: 85.725000	86.100000	white_faced_storm_petrel*********
+current category = background
+current start = 86.100000
+current end = 86.220000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 85.710000	86.415000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.220000	86.400000	white_faced_storm_petrel 
+
+******SUM LINE: 86.100000	86.220000	background*********
+current category = white_faced_storm_petrel
+current start = 86.220000
+current end = 86.400000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 85.710000	86.415000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.400000	86.535000	background 
+
+******SUM LINE: 86.220000	86.400000	white_faced_storm_petrel*********
+current category = background
+current start = 86.400000
+current end = 86.415000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 86.415000	86.565000	diving_petrel 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.400000	86.535000	background 
+current category = background
+current start = 86.400000
+current end = 86.535000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 86.415000	86.565000	diving_petrel 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.535000	86.985000	white_faced_storm_petrel 
+
+******SUM LINE: 86.400000	86.535000	background*********
+current category = other_sb
+current start = 86.400000
+current end = 86.565000
+current manybirds = 1
+birdcount = 2
+
+______________________________________________________________________________________________
+0 86.565000	87.000000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.535000	86.985000	white_faced_storm_petrel 
+current category = other_sb
+current start = 86.400000
+current end = 86.985000
+current manybirds = 1
+birdcount = 1
+
+______________________________________________________________________________________________
+0 86.565000	87.000000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.985000	87.105000	background 
+
+******SUM LINE: 86.400000	86.985000	other_sb*********
+current category = background
+current start = 86.985000
+current end = 87.000000
+current manybirds = 0
+birdcount = 0
+
+0 was here
+______________________________________________________________________________________________
+0 87.105000	87.555000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 86.985000	87.105000	background 
+current category = background
+current start = 86.985000
+current end = 87.105000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 87.105000	87.555000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 87.105000	87.315000	other_sb 
+
+******SUM LINE: 86.985000	87.105000	background*********
+current category = other_sb
+current start = 87.105000
+current end = 87.315000
+current manybirds = 0
+birdcount = 0
+
+0 was here
+______________________________________________________________________________________________
+0 87.105000	87.555000	other_sb 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 86.220000	87.555000	other_sb 
+4 87.420000	87.570000	white_faced_storm_petrel 
+
+******SUM LINE: 87.105000	87.315000	other_sb*********
+current category = white_faced_storm_petrel
+current start = 87.315000
+current end = 87.555000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 87.555000	87.735000	background 
+1 86.220000	87.570000	other_sb 
+2 85.710000	87.570000	other_sb 
+3 87.555000	87.735000	background 
+4 87.420000	87.570000	white_faced_storm_petrel 
+
+******SUM LINE: 87.315000	87.555000	white_faced_storm_petrel*********
+current category = background
+current start = 87.555000
+current end = 87.570000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 87.555000	87.735000	background 
+1 87.570000	87.720000	background 
+2 87.570000	87.720000	background 
+3 87.555000	87.735000	background 
+4 87.570000	87.720000	background 
+current category = background
+current start = 87.555000
+current end = 87.720000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 87.555000	87.735000	background 
+1 87.720000	88.215000	other_sb 
+2 87.720000	88.575000	other_sb 
+3 87.555000	87.735000	background 
+4 87.720000	87.855000	white_faced_storm_petrel 
+current category = background
+current start = 87.555000
+current end = 87.735000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 87.735000	87.855000	other_sb 
+1 87.720000	88.215000	other_sb 
+2 87.720000	88.575000	other_sb 
+3 87.735000	88.215000	other_sb 
+4 87.720000	87.855000	white_faced_storm_petrel 
+
+******SUM LINE: 87.555000	87.735000	background*********
+current category = white_faced_storm_petrel
+current start = 87.735000
+current end = 87.855000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 87.855000	88.035000	background 
+1 87.720000	88.215000	other_sb 
+2 87.720000	88.575000	other_sb 
+3 87.735000	88.215000	other_sb 
+4 87.855000	88.035000	background 
+
+******SUM LINE: 87.735000	87.855000	white_faced_storm_petrel*********
+current category = background
+current start = 87.855000
+current end = 88.035000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 88.035000	88.575000	other_sb 
+1 87.720000	88.215000	other_sb 
+2 87.720000	88.575000	other_sb 
+3 87.735000	88.215000	other_sb 
+4 88.035000	88.215000	white_faced_storm_petrel 
+
+******SUM LINE: 87.855000	88.035000	background*********
+current category = white_faced_storm_petrel
+current start = 88.035000
+current end = 88.215000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 88.035000	88.575000	other_sb 
+1 88.215000	88.335000	background 
+2 87.720000	88.575000	other_sb 
+3 88.215000	88.335000	background 
+4 88.215000	88.335000	background 
+
+******SUM LINE: 88.035000	88.215000	white_faced_storm_petrel*********
+current category = background
+current start = 88.215000
+current end = 88.335000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 88.035000	88.575000	other_sb 
+1 88.335000	88.575000	other_sb 
+2 87.720000	88.575000	other_sb 
+3 88.335000	88.575000	other_sb 
+4 88.335000	88.575000	white_faced_storm_petrel 
+
+******SUM LINE: 88.215000	88.335000	background*********
+current category = white_faced_storm_petrel
+current start = 88.335000
+current end = 88.575000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 88.575000	88.860000	background 
+1 88.575000	88.860000	background 
+2 88.575000	88.860000	background 
+3 88.575000	88.860000	background 
+4 88.575000	88.860000	background 
+
+******SUM LINE: 88.335000	88.575000	white_faced_storm_petrel*********
+current category = background
+current start = 88.575000
+current end = 88.860000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 88.860000	89.625000	other_sb 
+1 88.860000	89.625000	other_sb 
+2 88.860000	89.625000	other_sb 
+3 88.860000	89.625000	other_sb 
+4 88.860000	89.430000	white_faced_storm_petrel 
+
+******SUM LINE: 88.575000	88.860000	background*********
+current category = white_faced_storm_petrel
+current start = 88.860000
+current end = 89.430000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 88.860000	89.625000	other_sb 
+1 88.860000	89.625000	other_sb 
+2 88.860000	89.625000	other_sb 
+3 88.860000	89.625000	other_sb 
+4 89.625000	89.775000	background 
+
+******SUM LINE: 88.860000	89.430000	white_faced_storm_petrel*********
+current category = background
+current start = 89.430000
+current end = 89.625000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 89.625000	89.760000	background 
+1 89.625000	89.760000	background 
+2 89.625000	89.760000	background 
+3 89.625000	89.760000	background 
+4 89.625000	89.775000	background 
+current category = background
+current start = 89.430000
+current end = 89.760000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 89.760000	90.195000	other_sb 
+1 89.760000	90.195000	other_sb 
+2 89.760000	90.195000	other_sb 
+3 89.760000	90.195000	other_sb 
+4 89.625000	89.775000	background 
+current category = background
+current start = 89.430000
+current end = 89.775000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 89.760000	90.195000	other_sb 
+1 89.760000	90.195000	other_sb 
+2 89.760000	90.195000	other_sb 
+3 89.760000	90.195000	other_sb 
+4 89.775000	89.940000	other_sb 
+
+******SUM LINE: 89.430000	89.775000	background*********
+current category = other_sb
+current start = 89.775000
+current end = 89.940000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 89.760000	90.195000	other_sb 
+1 89.760000	90.195000	other_sb 
+2 89.760000	90.195000	other_sb 
+3 89.760000	90.195000	other_sb 
+4 89.940000	90.195000	white_faced_storm_petrel 
+
+******SUM LINE: 89.775000	89.940000	other_sb*********
+current category = white_faced_storm_petrel
+current start = 89.940000
+current end = 90.195000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 90.195000	90.345000	background 
+1 90.195000	90.345000	background 
+2 90.195000	90.345000	background 
+3 90.195000	90.345000	background 
+4 90.195000	90.345000	background 
+
+******SUM LINE: 89.940000	90.195000	white_faced_storm_petrel*********
+current category = background
+current start = 90.195000
+current end = 90.345000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 90.345000	90.495000	other_sb 
+1 90.345000	90.495000	other_sb 
+2 90.345000	90.495000	other_sb 
+3 90.345000	90.480000	other_sb 
+4 90.345000	90.495000	white_faced_storm_petrel 
+
+******SUM LINE: 90.195000	90.345000	background*********
+current category = white_faced_storm_petrel
+current start = 90.345000
+current end = 90.480000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 90.345000	90.495000	other_sb 
+1 90.345000	90.495000	other_sb 
+2 90.345000	90.495000	other_sb 
+3 90.480000	90.675000	background 
+4 90.345000	90.495000	white_faced_storm_petrel 
+
+******SUM LINE: 90.345000	90.480000	white_faced_storm_petrel*********
+current category = background
+current start = 90.480000
+current end = 90.495000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 90.495000	90.675000	background 
+1 90.495000	90.675000	background 
+2 90.495000	90.660000	background 
+3 90.480000	90.675000	background 
+4 90.495000	90.660000	background 
+current category = background
+current start = 90.480000
+current end = 90.660000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 90.495000	90.675000	background 
+1 90.495000	90.675000	background 
+2 90.660000	90.825000	other_sb 
+3 90.480000	90.675000	background 
+4 90.660000	90.825000	white_faced_storm_petrel 
+current category = background
+current start = 90.480000
+current end = 90.675000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 90.675000	90.825000	other_sb 
+1 90.675000	90.825000	other_sb 
+2 90.660000	90.825000	other_sb 
+3 90.675000	90.825000	other_sb 
+4 90.660000	90.825000	white_faced_storm_petrel 
+
+******SUM LINE: 90.480000	90.675000	background*********
+current category = white_faced_storm_petrel
+current start = 90.675000
+current end = 90.825000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 90.825000	91.050000	background 
+1 90.825000	91.050000	background 
+2 90.825000	91.050000	background 
+3 90.825000	91.050000	background 
+4 90.825000	91.050000	background 
+
+******SUM LINE: 90.675000	90.825000	white_faced_storm_petrel*********
+current category = background
+current start = 90.825000
+current end = 91.050000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 91.050000	91.200000	other_sb 
+1 91.050000	91.200000	other_sb 
+2 91.050000	91.200000	other_sb 
+3 91.050000	91.200000	other_sb 
+4 91.050000	91.200000	white_faced_storm_petrel 
+
+******SUM LINE: 90.825000	91.050000	background*********
+current category = white_faced_storm_petrel
+current start = 91.050000
+current end = 91.200000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 91.200000	99.435000	background 
+1 91.200000	99.435000	background 
+2 91.200000	99.465000	background 
+3 91.200000	99.435000	background 
+4 91.200000	99.450000	background 
+
+******SUM LINE: 91.050000	91.200000	white_faced_storm_petrel*********
+current category = background
+current start = 91.200000
+current end = 99.435000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.435000	99.750000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 91.200000	99.465000	background 
+3 99.435000	99.735000	other_sb 
+4 91.200000	99.450000	background 
+current category = background
+current start = 91.200000
+current end = 99.450000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.435000	99.750000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 91.200000	99.465000	background 
+3 99.435000	99.735000	other_sb 
+4 99.450000	99.735000	other_sb 
+current category = background
+current start = 91.200000
+current end = 99.465000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.435000	99.750000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 99.465000	99.735000	grey_faced_petrel 
+3 99.435000	99.735000	other_sb 
+4 99.450000	99.735000	other_sb 
+
+******SUM LINE: 91.200000	99.465000	background*********
+current category = grey_faced_petrel
+current start = 99.465000
+current end = 99.735000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 99.435000	99.750000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 99.735000	99.900000	background 
+3 99.735000	99.885000	background 
+4 99.735000	99.885000	background 
+
+******SUM LINE: 99.465000	99.735000	grey_faced_petrel*********
+current category = background
+current start = 99.735000
+current end = 99.750000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.750000	99.885000	background 
+1 99.435000	100.395000	other_sb 
+2 99.735000	99.900000	background 
+3 99.735000	99.885000	background 
+4 99.735000	99.885000	background 
+current category = background
+current start = 99.735000
+current end = 99.885000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.885000	101.025000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 99.735000	99.900000	background 
+3 99.885000	101.025000	other_sb 
+4 99.885000	100.395000	other_sb 
+current category = background
+current start = 99.735000
+current end = 99.900000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.885000	101.025000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 99.900000	100.380000	grey_faced_petrel 
+3 99.885000	101.025000	other_sb 
+4 99.885000	100.395000	other_sb 
+
+******SUM LINE: 99.735000	99.900000	background*********
+current category = grey_faced_petrel
+current start = 99.900000
+current end = 100.380000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 99.885000	101.025000	other_sb 
+1 99.435000	100.395000	other_sb 
+2 100.380000	100.545000	background 
+3 99.885000	101.025000	other_sb 
+4 99.885000	100.395000	other_sb 
+
+******SUM LINE: 99.900000	100.380000	grey_faced_petrel*********
+current category = background
+current start = 100.380000
+current end = 100.395000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.885000	101.025000	other_sb 
+1 100.395000	100.545000	background 
+2 100.380000	100.545000	background 
+3 99.885000	101.025000	other_sb 
+4 100.395000	100.545000	background 
+current category = background
+current start = 100.380000
+current end = 100.545000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 99.885000	101.025000	other_sb 
+1 100.545000	101.025000	other_sb 
+2 100.545000	101.025000	grey_faced_petrel 
+3 99.885000	101.025000	other_sb 
+4 100.545000	101.025000	other_sb 
+
+******SUM LINE: 100.380000	100.545000	background*********
+current category = grey_faced_petrel
+current start = 100.545000
+current end = 101.025000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 101.025000	101.190000	background 
+1 101.025000	101.175000	background 
+2 101.025000	101.190000	background 
+3 101.025000	101.190000	background 
+4 101.025000	101.190000	background 
+
+******SUM LINE: 100.545000	101.025000	grey_faced_petrel*********
+current category = background
+current start = 101.025000
+current end = 101.175000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 101.025000	101.190000	background 
+1 101.175000	106.170000	other_sb 
+2 101.025000	101.190000	background 
+3 101.025000	101.190000	background 
+4 101.025000	101.190000	background 
+current category = background
+current start = 101.025000
+current end = 101.190000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 101.190000	106.170000	other_sb 
+1 101.175000	106.170000	other_sb 
+2 101.190000	106.020000	grey_faced_petrel 
+3 101.190000	106.170000	other_sb 
+4 101.190000	106.170000	other_sb 
+
+******SUM LINE: 101.025000	101.190000	background*********
+current category = grey_faced_petrel
+current start = 101.190000
+current end = 106.020000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 101.190000	106.170000	other_sb 
+1 101.175000	106.170000	other_sb 
+2 106.020000	106.170000	other_sb 
+3 101.190000	106.170000	other_sb 
+4 101.190000	106.170000	other_sb 
+
+******SUM LINE: 101.190000	106.020000	grey_faced_petrel*********
+current category = other_sb
+current start = 106.020000
+current end = 106.170000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 106.170000	106.455000	background 
+1 106.170000	106.455000	background 
+2 106.170000	106.485000	background 
+3 106.170000	106.455000	background 
+4 106.170000	106.455000	background 
+
+******SUM LINE: 106.020000	106.170000	other_sb*********
+current category = background
+current start = 106.170000
+current end = 106.455000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 106.455000	107.265000	other_sb 
+1 106.455000	107.265000	other_sb 
+2 106.170000	106.485000	background 
+3 106.455000	107.265000	other_sb 
+4 106.455000	107.265000	other_sb 
+current category = background
+current start = 106.170000
+current end = 106.485000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 106.455000	107.265000	other_sb 
+1 106.455000	107.265000	other_sb 
+2 106.485000	107.265000	grey_faced_petrel 
+3 106.455000	107.265000	other_sb 
+4 106.455000	107.265000	other_sb 
+
+******SUM LINE: 106.170000	106.485000	background*********
+current category = grey_faced_petrel
+current start = 106.485000
+current end = 107.265000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+0 was here
+0 was here
+0 was here
+______________________________________________________________________________________________
+0 107.370000	109.425000	other_sb 
+1 107.370000	108.300000	other_sb 
+2 107.265000	107.385000	background 
+3 107.370000	109.425000	other_sb 
+4 107.370000	109.425000	other_sb 
+
+******SUM LINE: 106.485000	107.265000	grey_faced_petrel*********
+current category = background
+current start = 107.265000
+current end = 107.385000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 107.370000	109.425000	other_sb 
+1 107.370000	108.300000	other_sb 
+2 107.385000	108.330000	grey_faced_petrel 
+3 107.370000	109.425000	other_sb 
+4 107.370000	109.425000	other_sb 
+
+******SUM LINE: 107.265000	107.385000	background*********
+current category = grey_faced_petrel
+current start = 107.385000
+current end = 108.300000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 107.370000	109.425000	other_sb 
+1 108.300000	108.435000	background 
+2 107.385000	108.330000	grey_faced_petrel 
+3 107.370000	109.425000	other_sb 
+4 107.370000	109.425000	other_sb 
+
+******SUM LINE: 107.385000	108.300000	grey_faced_petrel*********
+current category = background
+current start = 108.300000
+current end = 108.330000
+current manybirds = 0
+birdcount = 1
+
+0 was here
+______________________________________________________________________________________________
+0 107.370000	109.425000	other_sb 
+1 108.300000	108.435000	background 
+2 108.435000	109.425000	grey_faced_petrel 
+3 107.370000	109.425000	other_sb 
+4 107.370000	109.425000	other_sb 
+current category = background
+current start = 108.300000
+current end = 108.435000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 107.370000	109.425000	other_sb 
+1 108.435000	109.425000	other_sb 
+2 108.435000	109.425000	grey_faced_petrel 
+3 107.370000	109.425000	other_sb 
+4 107.370000	109.425000	other_sb 
+
+******SUM LINE: 108.300000	108.435000	background*********
+current category = grey_faced_petrel
+current start = 108.435000
+current end = 109.425000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 109.425000	109.710000	background 
+1 109.425000	109.710000	background 
+2 109.425000	109.710000	background 
+3 109.425000	109.710000	background 
+4 109.425000	109.710000	background 
+
+******SUM LINE: 108.435000	109.425000	grey_faced_petrel*********
+current category = background
+current start = 109.425000
+current end = 109.710000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 109.710000	110.250000	other_sb 
+1 109.710000	110.235000	other_sb 
+2 109.710000	110.235000	grey_faced_petrel 
+3 109.710000	110.250000	other_sb 
+4 109.710000	110.250000	other_sb 
+
+******SUM LINE: 109.425000	109.710000	background*********
+current category = grey_faced_petrel
+current start = 109.710000
+current end = 110.235000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 109.710000	110.250000	other_sb 
+1 110.235000	115.530000	background 
+2 110.235000	115.545000	background 
+3 109.710000	110.250000	other_sb 
+4 109.710000	110.250000	other_sb 
+
+******SUM LINE: 109.710000	110.235000	grey_faced_petrel*********
+current category = background
+current start = 110.235000
+current end = 110.250000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 110.250000	115.530000	background 
+1 110.235000	115.530000	background 
+2 110.235000	115.545000	background 
+3 110.250000	115.530000	background 
+4 110.250000	115.530000	background 
+current category = background
+current start = 110.235000
+current end = 115.530000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 115.530000	120.540000	other_sb 
+1 115.530000	120.540000	other_sb 
+2 110.235000	115.545000	background 
+3 115.530000	120.540000	other_sb 
+4 115.530000	120.540000	other_sb 
+current category = background
+current start = 110.235000
+current end = 115.545000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 115.530000	120.540000	other_sb 
+1 115.530000	120.540000	other_sb 
+2 115.545000	120.525000	grey_faced_petrel 
+3 115.530000	120.540000	other_sb 
+4 115.530000	120.540000	other_sb 
+
+******SUM LINE: 110.235000	115.545000	background*********
+current category = grey_faced_petrel
+current start = 115.545000
+current end = 120.525000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 115.530000	120.540000	other_sb 
+1 115.530000	120.540000	other_sb 
+2 120.525000	121.560000	background 
+3 115.530000	120.540000	other_sb 
+4 115.530000	120.540000	other_sb 
+
+******SUM LINE: 115.545000	120.525000	grey_faced_petrel*********
+current category = background
+current start = 120.525000
+current end = 120.540000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 120.540000	121.560000	background 
+1 120.540000	121.560000	background 
+2 120.525000	121.560000	background 
+3 120.540000	121.560000	background 
+4 120.540000	121.560000	background 
+current category = background
+current start = 120.525000
+current end = 121.560000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 121.560000	121.740000	other_sb 
+1 121.560000	121.740000	fluttering_shearwater 
+2 121.560000	121.740000	other_sb 
+3 121.560000	121.740000	other_sb 
+4 121.560000	121.740000	other_sb 
+
+******SUM LINE: 120.525000	121.560000	background*********
+current category = fluttering_shearwater
+current start = 121.560000
+current end = 121.740000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 121.740000	123.720000	background 
+1 121.740000	123.720000	background 
+2 121.740000	123.720000	background 
+3 121.740000	123.720000	background 
+4 121.740000	123.720000	background 
+
+******SUM LINE: 121.560000	121.740000	fluttering_shearwater*********
+current category = background
+current start = 121.740000
+current end = 123.720000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 123.720000	124.455000	other_sb 
+1 123.720000	124.410000	fluttering_shearwater 
+2 123.720000	124.425000	other_sb 
+3 123.720000	124.455000	other_sb 
+4 123.720000	124.455000	other_sb 
+
+******SUM LINE: 121.740000	123.720000	background*********
+current category = fluttering_shearwater
+current start = 123.720000
+current end = 124.410000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 123.720000	124.455000	other_sb 
+1 124.410000	127.785000	background 
+2 123.720000	124.425000	other_sb 
+3 123.720000	124.455000	other_sb 
+4 123.720000	124.455000	other_sb 
+
+******SUM LINE: 123.720000	124.410000	fluttering_shearwater*********
+current category = background
+current start = 124.410000
+current end = 124.425000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 123.720000	124.455000	other_sb 
+1 124.410000	127.785000	background 
+2 124.425000	127.770000	background 
+3 123.720000	124.455000	other_sb 
+4 123.720000	124.455000	other_sb 
+current category = background
+current start = 124.410000
+current end = 124.455000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 124.455000	127.770000	background 
+1 124.410000	127.785000	background 
+2 124.425000	127.770000	background 
+3 124.455000	127.785000	background 
+4 124.455000	127.785000	background 
+current category = background
+current start = 124.410000
+current end = 127.770000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 127.770000	133.185000	other_sb 
+1 124.410000	127.785000	background 
+2 127.770000	127.920000	other_sb 
+3 124.455000	127.785000	background 
+4 124.455000	127.785000	background 
+current category = background
+current start = 124.410000
+current end = 127.785000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 127.770000	133.185000	other_sb 
+1 127.785000	133.035000	other_sb 
+2 127.770000	127.920000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 127.785000	133.185000	other_sb 
+
+******SUM LINE: 124.410000	127.785000	background*********
+current category = other_sb
+current start = 127.785000
+current end = 127.920000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 127.770000	133.185000	other_sb 
+1 127.785000	133.035000	other_sb 
+2 127.920000	132.975000	grey_faced_petrel 
+3 127.785000	138.135000	other_sb 
+4 127.785000	133.185000	other_sb 
+
+******SUM LINE: 127.785000	127.920000	other_sb*********
+current category = grey_faced_petrel
+current start = 127.920000
+current end = 132.975000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 127.770000	133.185000	other_sb 
+1 127.785000	133.035000	other_sb 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 127.785000	133.185000	other_sb 
+
+******SUM LINE: 127.920000	132.975000	grey_faced_petrel*********
+current category = other_sb
+current start = 132.975000
+current end = 133.035000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 127.770000	133.185000	other_sb 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 127.785000	133.185000	other_sb 
+
+******SUM LINE: 132.975000	133.035000	other_sb*********
+current category = fluttering_shearwater
+current start = 133.035000
+current end = 133.185000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 133.185000	133.740000	background 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 133.185000	133.590000	background 
+
+******SUM LINE: 133.035000	133.185000	fluttering_shearwater*********
+current category = background
+current start = 133.185000
+current end = 133.590000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 133.185000	133.740000	background 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 133.590000	134.160000	other_sb 
+current category = background
+current start = 133.185000
+current end = 133.740000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 133.740000	134.400000	other_sb 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 133.590000	134.160000	other_sb 
+
+******SUM LINE: 133.185000	133.740000	background*********
+current category = fluttering_shearwater
+current start = 133.740000
+current end = 134.160000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 133.740000	134.400000	other_sb 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 134.160000	135.465000	background 
+
+******SUM LINE: 133.740000	134.160000	fluttering_shearwater*********
+current category = background
+current start = 134.160000
+current end = 134.400000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 134.400000	134.940000	background 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 134.160000	135.465000	background 
+current category = background
+current start = 134.160000
+current end = 134.940000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 134.940000	138.120000	other_sb 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 134.160000	135.465000	background 
+current category = background
+current start = 134.160000
+current end = 135.465000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 134.940000	138.120000	other_sb 
+1 133.035000	138.135000	fluttering_shearwater 
+2 132.975000	138.120000	other_sb 
+3 127.785000	138.135000	other_sb 
+4 135.465000	138.120000	other_sb 
+
+******SUM LINE: 134.160000	135.465000	background*********
+current category = fluttering_shearwater
+current start = 135.465000
+current end = 138.120000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 138.120000	151.440000	background 
+1 133.035000	138.135000	fluttering_shearwater 
+2 138.120000	143.850000	background 
+3 127.785000	138.135000	other_sb 
+4 138.120000	151.440000	background 
+
+******SUM LINE: 135.465000	138.120000	fluttering_shearwater*********
+current category = background
+current start = 138.120000
+current end = 138.135000
+current manybirds = 0
+birdcount = 1
+
+______________________________________________________________________________________________
+0 138.120000	151.440000	background 
+1 138.135000	151.440000	background 
+2 138.120000	143.850000	background 
+3 138.135000	144.105000	background 
+4 138.120000	151.440000	background 
+current category = background
+current start = 138.120000
+current end = 143.850000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 138.120000	151.440000	background 
+1 138.135000	151.440000	background 
+2 143.850000	144.480000	other_sb 
+3 138.135000	144.105000	background 
+4 138.120000	151.440000	background 
+current category = background
+current start = 138.120000
+current end = 144.105000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 138.120000	151.440000	background 
+1 138.135000	151.440000	background 
+2 143.850000	144.480000	other_sb 
+3 144.105000	144.450000	other_sb 
+4 138.120000	151.440000	background 
+current category = background
+current start = 138.120000
+current end = 144.450000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 138.120000	151.440000	background 
+1 138.135000	151.440000	background 
+2 143.850000	144.480000	other_sb 
+3 144.450000	151.440000	background 
+4 138.120000	151.440000	background 
+current category = background
+current start = 138.120000
+current end = 144.480000
+current manybirds = 0
+birdcount = 0
+
+______________________________________________________________________________________________
+0 138.120000	151.440000	background 
+1 138.135000	151.440000	background 
+2 144.480000	151.440000	background 
+3 144.450000	151.440000	background 
+4 138.120000	151.440000	background 
+current category = background
+current start = 138.120000
+current end = 151.440000
+current manybirds = 0
+birdcount = 0

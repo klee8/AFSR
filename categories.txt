@@ -1,0 +1,8 @@
+noise
+background
+other_sb
+diving_petrel
+fluttering_shearwater
+grey_faced_petrel
+little_shearwater
+white_faced_storm_petrel

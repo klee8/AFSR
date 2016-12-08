@@ -1,0 +1,63 @@
+sum_label.pl written by Kate Lee in April 2016
+
+The script takes in files generated in Octave which label sound files based on what species is identified.
+In order to reduce false positives, some rules were made to compare the output of different models. This 
+script goes through all the files together. It looks at the labels in the file whenever there is a change 
+in one of the files and evaluates the block until the next change. The summary of labels is calculated using
+the rules laid out below by Ivan and summary with start and end times printed to output file.
+
+---bk--------|-------FS-------------|-------bk--------
+---bk------------|------os----------|------bk-----
+---bk--------|-------os---------|-------bk--------
+---bk------------|-------os-----------|-------bk--
+---bk--------|--------os--------|--------bk-------
+
+evaluate ->  |   |              |   | |       etc.
+
+
+The script takes in two files:
+    sum_me.txt - a list of all the model files to sum
+    categories.txt - a list of all the categories (i.e. the bird models and 'noise', 'background' and 'other_sb')
+
+usage :
+perl sum_label.pl
+
+
+
+
+The rules I have used doing this summary are:
+
+
+1 -When the five labels are indicating the same category, maintain that category
+
+-(example1: five models indicating “background”)
+
+-(example2:  five models indicating “other_sb”)
+
+ 
+
+2- The  “background” should be maintained every time it appear in at least one of the five models, with two exceptions:
+
+-Exception 1:  when “background” appears at the same time as “noise” – maintain “noise” in this case.
+
+-Exception 2:  when “background” appears at the same time as two different bird species – maintain “other_sb” in this case.
+
+ 
+
+3-The “noise” should be maintained every time it appear in one of the five models.
+
+ 
+
+4- When among the five models there are 2 “categories” indicated and of the categories is a bird species and the other is “other_sb”, maintain the bird species (ex: one model indicate GFP and all the others indicate “other_sb” = GFP should be indicated)
+
+ 
+
+5 – When among the five models there are 3 “categories” indicated:
+
+-5A: In that case should be maintained the category “other_sb”. (example: two of the categories are  bird species and the other is “other_sb” or “background”). In this case the “other_sb” should be indicated from the beginning of the bird species which started first and go until the end of the second species.
+
+ 
+
+6- When among the five models there are 4 ”categories” maintain “other_sb”.
+
+

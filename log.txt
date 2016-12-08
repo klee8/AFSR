@@ -1,0 +1,17 @@
+reading in Ten_minutes_file_to_test_14_09_2015_DP_plus4_ANU.label
+reading in Ten_minutes_file_to_test_14_09_2015_FSW_plus4_ANU.label
+reading in Ten_minutes_file_to_test_14_09_2015_GFP_plus4_ANU.label
+reading in Ten_minutes_file_to_test_14_09_2015_LSW_plus4_ANU.label
+reading in Ten_minutes_file_to_test_14_09_2015_WFSP_plus4_ANU.label
+5 files parsed
+experiment runs from 0.000023 to 151.440000 
+
+categories used include:
+noise
+background
+other_sb
+diving_petrel
+fluttering_shearwater
+grey_faced_petrel
+little_shearwater
+white_faced_storm_petrel
