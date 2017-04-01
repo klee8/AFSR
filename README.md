@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
 
-# sum_label.pl written by Kate Lee
-## April 2016
+# sum_label.pl
+##  written by Kate Lee April 2016
 
 MIT Licenced
 
@@ -18,7 +18,7 @@ or
 perl sum_label.pl \<inputfile\> \<outfile\>
 
 
-The rules I have used doing this summary are:
+## rules for summary:
 
  1. When the five labels are indicating the same category, use that category (example1: five models indicating “background”; example2: five models indicating “other_sb”).
  2. The  “background” label should be used every time it appears in at least one of the five models, with two exceptions 
