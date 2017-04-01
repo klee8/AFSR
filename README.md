@@ -27,14 +27,13 @@ The rules I have used doing this summary are:
        -Exception 1:  when “background” appears at the same time as “noise” – use “noise” in this case.
        -Exception 2:  when “background” appears at the same time as two different bird species – use “unidentified” in this case.
  3. The “noise” label should be used every time it appear in one of the five models.
- 4. When among the five models there are 2 categories indicated and one of the categories is a bird species and the other is “other_sb”, 
+ 4. When there are 2 categories indicated among the five models and one of the categories is a bird species and the other is “other_sb”, 
     use the bird species label (ex: one model indicate GFP and all the others indicate “other_sb” = the GFP label should be used)
- 5. When among the five models there are 3 categories indicated:
-        5A: In that case the category "unidentified” should be used.
-            (example: two of the categories are bird species and the other is “other_sb” or “background”).
-            In this case the “unidentified” should be indicated from the beginning of the bird species which started first and go until
-            the end of the second species.
- 6. When among the five models there are 4 categories use “unidentified”.
+ 5. When there are 3 categories indicated among the five models, use the category "unidentified”.(example: two of the categories are bird
+    	 species and the other is “other_sb” or “background”).
+     5A: Note that in this case the “unidentified” label should be used from the beginning of the bird species which started first and go 
+     	 until the end of the second species.
+ 6. When there are 4 categories among the five models use “unidentified”.
  7. Replace "other_sb" label with "unidentified"
 
 
