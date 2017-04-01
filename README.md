@@ -20,18 +20,16 @@ perl sum_label.pl \<inputfile\> \<outfile\>
 
 The rules I have used doing this summary are:
 
- 1. When the five labels are indicating the same category, use that category
-       -(example1: five models indicating “background”)
-       -(example2:  five models indicating “other_sb”)
+ 1. When the five labels are indicating the same category, use that category (example1: five models indicating “background”; example2: five models indicating “other_sb”)
  2. The  “background” label should be used every time it appears in at least one of the five models, with two exceptions:
-       -Exception 1:  when “background” appears at the same time as “noise” – use “noise” in this case.
-       -Exception 2:  when “background” appears at the same time as two different bird species – use “unidentified” in this case.
+         * exception 1:  when “background” appears at the same time as “noise” use the “noise” label.
+         * exception 2:  when “background” appears at the same time as two different bird species – use “unidentified” in this case.
  3. The “noise” label should be used every time it appear in one of the five models.
  4. When there are 2 categories indicated among the five models and one of the categories is a bird species and the other is “other_sb”, 
-    use the bird species label (ex: one model indicate GFP and all the others indicate “other_sb” = the GFP label should be used)
- 5. When there are 3 categories indicated among the five models, use the category "unidentified”.(example: two of the categories are bird
-    	 species and the other is “other_sb” or “background”).
-     5A: Note that in this case the “unidentified” label should be used from the beginning of the bird species which started first and go 
+    use the bird species label (example: if one model indicates GFP and all the others indicate “other_sb”, the GFP label should be used)
+ 5. When there are 3 categories indicated among the five models, use the category "unidentified”.(example: if two of the categories are bird
+    	 species and the other is “other_sb” or “background”, use "unidentified").
+         Note that in this case the “unidentified” label should be used from the beginning of the bird species which started first and go 
      	 until the end of the second species.
  6. When there are 4 categories among the five models use “unidentified”.
  7. Replace "other_sb" label with "unidentified"
@@ -40,7 +38,7 @@ The rules I have used doing this summary are:
 ## running the example
 
 enter the example folder and run sum_label.pl
-<pre><code> cd example
+<pre><code>cd example
 perl ../sum_label.pl
 </code></pre>
 
