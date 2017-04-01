@@ -13,27 +13,28 @@ The script takes in two files:
 usage :
 perl sum_label.pl
 
+or
 
+perl sum_label.pl <sum_me.txt> <outfile.txt>
 
 
 The rules I have used doing this summary are:
 
-1. If all the files have the same category, keep that category.
-
-2. The “noise” should be maintained every time it appear in one of the five models.
-
-3. The  “background” should be kept every time it appear in at least one of the five models, with two exceptions:
-
-   -Exception 1:  when “background” appears at the same time as “noise” take the “noise” category.
-
-   -Exception 2:  when “background” appears at the same time as two different bird species, keep the "other_sb” category.
-
-4. When a bird species is identified in one file and all other files show the "other_sb" category, keep the bird species. (ex: one model indicate GFP and all the others indicate “other_sb”, keep GFP)
-
-5. When there are 3 “categories” identified among the five models:
-
-   example: if two of the categories are bird species and the other is “other_sb” or “background”, “other_sb” should be used as the summary from the beginning of the bird species which started first and go until the end of the second species.
-
-6. When there are 4 ”categories” identified among the five models, use “other_sb”.
+ 1. When the five labels are indicating the same category, use that category
+       -(example1: five models indicating “background”)
+       -(example2:  five models indicating “other_sb”)
+ 2. The  “background” label should be used every time it appears in at least one of the five models, with two exceptions:
+       -Exception 1:  when “background” appears at the same time as “noise” – use “noise” in this case.
+       -Exception 2:  when “background” appears at the same time as two different bird species – use “unidentified” in this case.
+ 3. The “noise” label should be used every time it appear in one of the five models.
+ 4. When among the five models there are 2 categories indicated and one of the categories is a bird species and the other is “other_sb”, 
+    use the bird species label (ex: one model indicate GFP and all the others indicate “other_sb” = the GFP label should be used)
+ 5. When among the five models there are 3 categories indicated:
+        5A: In that case the category "unidentified” should be used.
+            (example: two of the categories are bird species and the other is “other_sb” or “background”).
+            In this case the “unidentified” should be indicated from the beginning of the bird species which started first and go until
+            the end of the second species.
+ 6. When among the five models there are 4 categories use “unidentified”.
+ 7. Replace "other_sb" label with "unidentified"
 
 
