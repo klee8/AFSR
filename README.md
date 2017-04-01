@@ -1,6 +1,7 @@
 [![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
 
-# sum_label.pl written by Kate Lee in April 2016
+# sum_label.pl written by Kate Lee
+## April 2016
 
 MIT Licenced
 
@@ -14,7 +15,7 @@ perl sum_label.pl
 
 or
 
-perl sum_label.pl <inputfile> <outfile>
+perl sum_label.pl \<inputfile\> \<outfile\>
 
 
 The rules I have used doing this summary are:
@@ -39,8 +40,7 @@ The rules I have used doing this summary are:
 ## running the example
 
 enter the example folder and run sum_label.pl
-<pre><code>
-    cd example
+<pre><code> cd example
     perl ../sum_label.pl
 </code></pre>
 
