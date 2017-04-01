@@ -20,10 +20,10 @@ perl sum_label.pl \<inputfile\> \<outfile\>
 
 The rules I have used doing this summary are:
 
- 1. When the five labels are indicating the same category, use that category (example1: five models indicating “background”; example2: five models indicating “other_sb”)
- 2. The  “background” label should be used every time it appears in at least one of the five models, with two exceptions:
-         > exception 1:  when “background” appears at the same time as “noise” use the “noise” label.
-         > exception 2:  when “background” appears at the same time as two different bird species use the “unidentified” label.
+ 1. When the five labels are indicating the same category, use that category (example1: five models indicating “background”; example2: five models indicating “other_sb”).
+ 2. The  “background” label should be used every time it appears in at least one of the five models, with two exceptions 
+         (exception 1:  when “background” appears at the same time as “noise” use the “noise” label;
+         exception 2:  when “background” appears at the same time as two different bird species use the “unidentified” label).
  3. The “noise” label should be used every time it appear in one of the five models.
  4. When there are 2 categories indicated among the five models and one of the categories is a bird species and the other is “other_sb”, 
     use the bird species label (example: if one model indicates GFP and all the others indicate “other_sb”, the GFP label should be used)
