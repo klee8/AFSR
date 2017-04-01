@@ -41,13 +41,15 @@ The rules I have used doing this summary are:
 
 enter the example folder and run sum_label.pl
 <pre><code> cd example
-    perl ../sum_label.pl
+perl ../sum_label.pl
 </code></pre>
 
-### outfile (default: summary.labels.txt)
+### output files:
+
+#### outfile (default: summary.labels.txt)
 shows a list of each time block and the summarised label for that block
 
-### label.log
+#### label.log
 Indicates the timeframe looked at and categories used.
 Shows how the program is making decisions in each block (between underscored lines).
 Each block shows the current timeslot and label for each of the files, what has been printed for the last block (in the starred line), and the decision for the current block.
