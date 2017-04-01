@@ -39,9 +39,10 @@ The rules I have used doing this summary are:
 ## running the example
 
 enter the example folder and run sum_label.pl
+<pre><code>
     cd example
     perl ../sum_label.pl
-
+</code></pre>
 
 ### outfile (default: summary.labels.txt)
 shows a list of each time block and the summarised label for that block
