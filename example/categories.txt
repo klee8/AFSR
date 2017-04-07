@@ -1,6 +1,6 @@
 noise
 background
-other_sb
+other_sp
 diving_petrel
 fluttering_shearwater
 grey_faced_petrel

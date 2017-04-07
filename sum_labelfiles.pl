@@ -2,7 +2,7 @@
 # sum_labelfiles.pl
 # Kate Lee April 2016 for Ivan Campos
 # Takes in a number of label files and summarises output (to reduce false positives) 
-# i.e. only want to identify a bird when the model for that bird is positive and all other models indicate "other_sb"
+# i.e. only want to identify a bird when the model for that bird is positive and all other models indicate "other_sp"
 
 # input: text file (default sum_me.txt) with a list of the files to be summarised (one on each line), categories.txt file with a list of all the categories
 # usage: perl sum_labelfiles.pl <sum_me.txt> <outfile_name>
@@ -13,20 +13,20 @@
 # RULES (from Ivan):
 # 1. When the five labels are indicating the same category, use that category
 #       -(example1: five models indicating “background”)
-#       -(example2:  five models indicating “other_sb”)
+#       -(example2:  five models indicating “other_sp”)
 # 2. The  “background” label should be used every time it appears in at least one of the five models, with two exceptions:
 #       -Exception 1:  when “background” appears at the same time as “noise” – use “noise” in this case.
 #       -Exception 2:  when “background” appears at the same time as two different bird species – use “unidentified” in this case.
 # 3. The “noise” label should be used every time it appear in one of the five models.
-# 4. When among the five models there are 2 categories indicated and one of the categories is a bird species and the other is “other_sb”,
-#   use the bird species label (ex: one model indicate GFP and all the others indicate “other_sb” = the GFP label should be used)
+# 4. When among the five models there are 2 categories indicated and one of the categories is a bird species and the other is “other_sp”,
+#   use the bird species label (ex: one model indicate GFP and all the others indicate “other_sp” = the GFP label should be used)
 # 5. When among the five models there are 3 categories indicated:
 #        5A: In that case the category "unidentified” should be used. 
-#            (example: two of the categories are bird species and the other is “other_sb” or “background”).
+#            (example: two of the categories are bird species and the other is “other_sp” or “background”).
 #            In this case the “unidentified” should be indicated from the beginning of the bird species which started first and go until 
 #            the end of the second species.
 # 6. When among the five models there are 4 categories use “unidentified”.
-# 7. Replace "other_sb" label with "unidentified"
+# 7. Replace "other_sp" label with "unidentified"
 
 ####################################################################################################################################### 
 
@@ -102,7 +102,7 @@ print LOG "\n\n\n";
 my %species = %categories;
 delete($species{'background'});
 delete($species{'noise'});
-delete($species{'other_sb'});
+delete($species{'other_sp'});
 
 
 # iterate through arrays to find blocks
@@ -171,7 +171,7 @@ until ($current_end == $endtime){
     # determine summary category for this block
     $birdcount = 0;
     if ($categories{'noise'} > 0) { $current_category = 'noise';}                  # if any category is noise                            -> 'noise'
-    elsif ( ($categories{'other_sb'} > 0) || ($categories{'background'} > 0) ) {   
+    elsif ( ($categories{'other_sp'} > 0) || ($categories{'background'} > 0) ) {   
 	my $tempcategory = 'unknown';
 	for my $i (sort keys %species){                                            # check for birds identified
 	    if ($categories{$i} > 0) { $birdcount++; $tempcategory = $i; }
@@ -188,12 +188,12 @@ until ($current_end == $endtime){
 	}
 	elsif ($birdcount == 0){
 	    if ($categories{'background'} > 0) { $current_category = 'background'; $manybirds = 0;}    # no 'noise', no birds, 'background' > 0   -> 'background', change manybirds = 0
-	    elsif ($categories{'other_sb'} > 0) { $current_category = 'unidentified'; $manybirds = 0;}     # no 'noise', no birds, no 'background', 'other_sb' > 0  -> 'unidentified', change manybirds = 0
+	    elsif ($categories{'other_sp'} > 0) { $current_category = 'unidentified'; $manybirds = 0;}     # no 'noise', no birds, no 'background', 'other_sp' > 0  -> 'unidentified', change manybirds = 0
       	}
 	else { $current_category = 'unknown'; }
     }
     #elsif ($categories{'background'} > 0) { $current_category = 'background'; $manybirds = 0; }   
-    #elsif ($categories{'other_sb'} > 0) { $current_category = 'unidentified' ; }
+    #elsif ($categories{'other_sp'} > 0) { $current_category = 'unidentified' ; }
     else {$current_category = 'unknown';}
 
     #print "\ncurrent category = $current_category\n";
