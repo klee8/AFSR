@@ -11,11 +11,11 @@ The script takes in two files. An input file which contains a list of all the mo
 
 
 usage :
-perl sum_label.pl
+perl ARMS_script.pl
 
 or
 
-perl sum_label.pl \<inputfile\> \<outfile\>
+perl ARMS_script.pl \<inputfile\> \<outfile\>
 
 
 ## rules for summary:
@@ -34,7 +34,7 @@ perl sum_label.pl \<inputfile\> \<outfile\>
 
 enter the example folder and run sum_label.pl
 <pre><code>cd example
-perl ../sum_label.pl
+perl ../ARMS_script.pl
 </code></pre>
 
 ### output files:
