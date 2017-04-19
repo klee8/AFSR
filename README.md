@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
 
-# sum_label.pl
+# ARMS_script.pl
 ##  written by Kate Lee April 2016
 
 MIT Licenced
