@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
 
 # ARMS_script.pl
-##  written by Kate Lee April 2016
+## Kate D Lee April 2016
 
 MIT Licenced
 
