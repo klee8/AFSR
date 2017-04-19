@@ -1,5 +1,5 @@
 #!usr/bin/perl
-# sum_labelfiles.pl
+# ARMS_script.pl
 # Kate Lee April 2016 for Ivan Campos
 # Takes in a number of label files and summarises output (to reduce false positives) 
 # i.e. only want to identify a bird when the model for that bird is positive and all other models indicate "other_sp"
