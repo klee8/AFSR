@@ -1,6 +1,4 @@
 
-[![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
-
 # ARMS_summarizing.pl
 ### Kate D Lee April 2016
 
