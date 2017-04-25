@@ -1,7 +1,7 @@
 
 [![DOI](https://zenodo.org/badge/75901343.svg)](https://zenodo.org/badge/latestdoi/75901343)
 
-# ARMS_script.pl
+# ARMS_summarizing.pl
 ### Kate D Lee April 2016
 
 MIT Licenced
@@ -12,11 +12,11 @@ The script takes in two files. An input file which contains a list of all the mo
 
 
 usage :
-perl ARMS_script.pl
+perl ARMS_summarizing.pl
 
 or
 
-perl ARMS_script.pl \<inputfile\> \<outfile\>
+perl ARMS_summarizing.pl \<inputfile\> \<outfile\>
 
 
 ## rules for summary:
@@ -35,7 +35,7 @@ perl ARMS_script.pl \<inputfile\> \<outfile\>
 
 enter the example folder and run sum_label.pl
 <pre><code>cd example
-perl ../ARMS_script.pl
+perl ../ARMS_summarizing.pl
 </code></pre>
 
 ### output files:
