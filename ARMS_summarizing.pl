@@ -1,11 +1,12 @@
 #!usr/bin/perl
-# ARMS_summarizing.pl
+# AFSR_summarizing.pl
+# Assemblage of Focal Species Recognizers (AFSR)
 # Kate Lee April 2016 for Ivan Campos
 # Takes in a number of label files and summarises output (to reduce false positives) 
 # i.e. only want to identify a bird when the model for that bird is positive and all other models indicate "other_sp"
 
 # input: text file (default sum_me.txt) with a list of the files to be summarised (one on each line), categories.txt file with a list of all the categories
-# usage: perl ARMS_summarizing.pl <sum_me.txt> <outfile_name>
+# usage: perl AFSR_summarizing.pl <sum_me.txt> <outfile_name>
 
 
 ######################################################################################################################################
