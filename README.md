@@ -1,5 +1,5 @@
 
-# AFSR_summarizing.pl
+# AFSR_summarising.pl
 ### Kate D Lee April 2016
 
 MIT Licenced
@@ -10,11 +10,11 @@ The script takes in two files. An input file which contains a list of all the mo
 
 
 usage :
-perl AFSR_summarizing.pl
+perl AFSR_summarising.pl
 
 or
 
-perl AFSR_summarizing.pl \<inputfile\> \<outfile\>
+perl AFSR_summarising.pl \<inputfile\> \<outfile\>
 
 
 ## rules for summary:
@@ -33,7 +33,7 @@ perl AFSR_summarizing.pl \<inputfile\> \<outfile\>
 
 enter the example folder and run sum_label.pl
 <pre><code>cd example
-perl ../AFSR_summarizing.pl
+perl ../AFSR_summarising.pl
 </code></pre>
 
 ### output files:
