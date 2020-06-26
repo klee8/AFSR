@@ -46,5 +46,6 @@ Indicates the timeframe looked at and categories used.
 Shows how the program is making decisions in each block (between underscored lines).
 Each block shows the current timeslot and label for each of the files, what has been printed for the last block (in the starred line), and the decision for the current block.
 
-Citation: Campos, I.B., Landers, T.J., Lee, K.D., Lee, W.G., Friesen, M.R., Gaskett, A.C., Ranjard, L., 2019. Assemblage of Focal Species Recognizers - AFSR: A technique for decreasing false positive rates of acoustic automatic identification in a multiple species context (preprint). Ecology. https://doi.org/10.1101/546812
+### Citation: 
+Campos IB, Landers TJ, Lee KD, Lee WG, Friesen MR, Gaskett AC, Ranjard L, (2019) Assemblage of Focal Species Recognizers—AFSR: A technique for decreasing false indications of presence from acoustic automatic identification in a multiple species context. PLOS ONE 14(12): e0212727. https://doi.org/10.1371/journal.pone.0212727https://doi.org/10.1371/journal.pone.0212727
 
